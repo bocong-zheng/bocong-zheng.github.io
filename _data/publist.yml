@@ -18,9 +18,9 @@
 
 - title: "Electron dynamics in radio frequency magnetron sputtering argon discharges"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan
+  url: none
   journal: Plasma Sources Science and Technology
   image: zheng20psst.jpg
-  arxiv: "2008.04410"
   abstract: "We demonstrate a self-consistent and complete description of electron dynamics in a typical electropositive radio frequency magnetron sputtering (RFMS) argon discharge.
     The electron dynamics, including the electron power absorption dynamics in one radio frequency (RF) period, is studied via a fully kinetic 2d3v particle-in-cell/Monte Carlo collision (PIC/MCC) electrostatic simulation.
     The interplay between the fundamental plasma parameters is analyzed through their spatiotemporal dynamics.
@@ -33,6 +33,7 @@
 
 - title: "Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan
+  url: none
   journal: Physics of Plasmas
   image: zheng20pop.jpg
   abstract: "One-dimensional (1d3v) and two-dimensional (2d3v) particle-in-cell/Monte Carlo collision (PIC/MCC) simulations are performed for a balanced direct current magnetron sputtering (DCMS) discharge.
