@@ -9,7 +9,6 @@ permalink: /
 
 #### `$ whoami`
 
-test
 New medical devices and therapies stand to improve human health outcomes the world over.
 Though innovating in this space is challenging, predictive simulations provide a promising path forward.
 I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
