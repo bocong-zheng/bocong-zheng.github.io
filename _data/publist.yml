@@ -1,3 +1,17 @@
+- title: "Electron dynamics in radio frequency magnetron sputtering argon discharges"
+  authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan
+  journal: Plasma Sources Science and Technology
+  image: zheng20psst.jpg
+  abstract: "We demonstrate a self-consistent and complete description of electron dynamics in a typical electropositive radio frequency magnetron sputtering (RFMS) argon discharge.
+    The electron dynamics, including the electron power absorption dynamics in one radio frequency (RF) period, is studied via a fully kinetic 2d3v particle-in-cell/Monte Carlo collision (PIC/MCC) electrostatic simulation.
+    The interplay between the fundamental plasma parameters is analyzed through their spatiotemporal dynamics.
+    The E times B drift-to-discharge current ratio is in approximate agreement with Bohm diffusion.
+    The electron power absorption can be primarily decoupled into the positive Ohmic power absorption in the bulk plasma region and the negative pressure-induced power absorption near the target surface.
+    Ohmic power absorption is the dominant electron power absorption mechanism, mostly contributed by the azimuthal electron current.
+    The power absorption due to electron inertial effects is negligible on time-average.
+    Both the maximum power absorption and dissipation of electrons appear in the bulk plasma region during the second half of the RF period, implying that the nonlocal dynamics of electrons is suppressed in magnetron discharges.
+    The contribution of secondary electrons is negligible under typical RFMS discharge conditions."
+
 - title: "Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan
   journal: Physics of Plasmas
@@ -6,8 +20,7 @@
     The plasma parameters obtained by both simulations above the target racetrack share similar features and magnitudes under similar discharge intensities, i.e., similar local discharge current densities.
     The commonly observed high-energy tail of electron energy distribution in DCMS discharges are reproduced in both simulations.
     The accuracy and applicability of using one-dimensional simulations to qualitatively investigate the characteristics of balanced DCMS discharge are confirmed.
-    In terms of capturing the key physical mechanisms in DCMS, one-dimensional PIC simulation is an efficient method, which could largely alleviate the computational expense and preserve the physical fidelity of modeling results.
-"
+    In terms of capturing the key physical mechanisms in DCMS, one-dimensional PIC simulation is an efficient method, which could largely alleviate the computational expense and preserve the physical fidelity of modeling results."
 
 - title: "Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas"
   authors: Yangyang Fu, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
