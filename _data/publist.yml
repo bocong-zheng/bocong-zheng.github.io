@@ -16,23 +16,19 @@
   In particular, the En4D–Var yields lower viscosity estimates for some experiments, and the dynamic estimators reveal a potential mechanism that is unaccounted for in the model, whereby the viscosity is reduced in some cases due to material damage occurring at bubble collapse.
 "
 
-- title: "QBMMlib: A library of quadrature-based moment methods"
-  authors: S. H. Bryngelson, T. Colonius, R. O. Fox
-  url: bryngelson-SoftX-20
-  journal: SoftwareX
+- title: "Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas"
+  authors: Yangyang Fu, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
+  url: fu20_simil_law_frequen_scalin_low
+  journal: Applied Physics Letters
   year: 2020
-  info: 12, 100615
-  doi: 10.1016/j.softx.2020.100615
-  image: qbmmlib.jpg
-  abstract: "QBMMlib is an open source package of quadrature-based moment methods and their algorithms. 
-    Such methods are commonly used to solve fully-coupled disperse flow and combustion problems, though formulating and closing the corresponding governing equations can be complex. 
-    QBMMlib aims to make analyzing these techniques simple and more accessible. 
-    Its routines use symbolic manipulation to formulate the moment transport equations for a population balance equation and a prescribed dynamical system. 
-    However, the resulting moment transport equations are unclosed. 
-    QBMMlib trades the moments for a set of quadrature points and weights via an inversion algorithm, of which several are available. 
-    Quadratures then closes the moment transport equations. 
-    Embedded code snippets show how to use QBMMlib, with the algorithm initialization and solution spanning just 13 total lines of code. 
-    Examples are shown and analyzed for linear harmonic oscillator and bubble dynamics problems."
+  info: 117, 204101
+  doi: 10.1063/5.0029518
+  image: fu20_simil_law_frequen_scalin_low.jpg
+  abstract: "We verify the similarity law (SL) and show a violation of frequency scaling (f-scaling) in low-pressure capacitive radio frequency (rf) plasmasvia fully kinetic particle-in-cell simulations.
+    The SL scaling relations for electron density and electron power absorption are first confirmed insimilar rf discharges.
+    Based on these results, with only the driving frequency varied, the f-scaling for electron density is also validated,showing almost the same trend as the SL scaling, across most of the frequency regime.
+    However, violations of the f-scaling are observed atlower frequencies, which are found to be relevant to the electron heating mode transition from stochastic to Ohmic heating.
+    Electron kineticinvariance is illustrated for the SL and f-scaling being valid, respectively, whereas the electron kinetic variation is observed when the f-scalingis violated."
 
 
 

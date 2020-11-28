@@ -1,0 +1,13 @@
+@article{fu20_simil_law_frequen_scalin_low,
+  author =       {Yangyang Fu and Bocong Zheng and De-Qi Wen and Peng Zhang and
+                  Qi Hua Fan and John P. Verboncoeur},
+  title =        {Similarity Law and Frequency Scaling in Low-Pressure
+                  Capacitive Radio Frequency Plasmas},
+  journal =      {Applied Physics Letters},
+  volume =       117,
+  number =       20,
+  pages =        204101,
+  year =         2020,
+  doi =          {10.1063/5.0029518},
+  url =          {https://doi.org/10.1063/5.0029518},
+}
