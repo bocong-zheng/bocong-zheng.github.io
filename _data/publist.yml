@@ -1,3 +1,27 @@
+- title: "Microplasma formation around microstructure arrays"
+  authors: Yangyang Fu, Bocong Zheng, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
+  url: fu20apl
+  journal: Applied Physics Letters
+  image: fu20apl.jpg
+  abstract: "We demonstrate the formation and transition behaviors of a microplasma around microstructure arrays at different gas pressures via two-dimensional particle-in-cell/Monte Carlo collision (2d3v) simulations.
+    It is found that the microdischarge occurs outside the cathode microcavities at the lowest pressure while starts penetrating the microcavities with a curved sheath edge as the pressure increases.
+    At high pressure, microhollow cathode discharges (MHCDs) are formed inside the microcavities and operate in parallel.
+    Further increasing the gas pressure results in the disappearance of the MHCDs, and the dominant discharge shifts outside of the microcavity, locating above the microstructure tips.
+    The effect of the electric shielding on the discharge and the condition for the MHCD formation are discussed.
+    The macroscopic discharge parameters scaling with the gas pressure and the electron kinetics are also examined.
+    The results are beneficial for the scaling, design, and optimization of microplasma array devices across a wide range of pressure regimes in practical applications."
+
+- title: "Transition characteristics and electron kinetics in microhollow cathode discharges"
+  authors: Yangyang Fu, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
+  url: fu20jap
+  journal: Journal of Applied Physics
+  image: fu20jap.jpg
+  abstract: "We demonstrate the transition characteristics in microhollow cathode discharges (MHCD) at different gas pressures by using two-dimension particle-in-cell/Monte Carlo collision (2d3v) simulations.
+    We found that the discharge is inside the hollow activity at low pressure while mainly locates between the anode and the cathode rectangular protrusion tip at high pressure.
+    The spatial distributions of the typical discharge parameters (e.g., electric potential and electron density) are presented.
+    The fundamental electron kinetics (e.g., electron power absorption) are examined based on the momentum analysis of the electron Boltzmann equation.
+    The results provide fundamental insights into MHCD at varying pressure conditions, which could be further beneficial for the design and fabrication of microplasma devices in practical applications."
+
 - title: "Electron dynamics in radio frequency magnetron sputtering argon discharges"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan
   url: zheng20psst
