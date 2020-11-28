@@ -1,19 +1,12 @@
-- title: "Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations"
-  authors: J.-S. Spratt, M. Rodriguez, K. Schmidmayer, S. H. Bryngelson, J. Yang, C. Franck, T. Colonius
-  url: spratt-bryngelson-JMPS-20
-  journal: Journal of the Mechanics and Physics of Solids
-  image: enkf.jpg
-  arxiv: "2008.04410"
-  abstract: "Viscoelastic material properties at high strain rates are needed to model many biological and medical systems. 
-    Bubble cavitation can induce such strain rates, and the resulting bubble dynamics are sensitive to the material properties. 
-    Thus, in principle, these properties can be inferred via measurements of the bubble dynamics. 
-    Estrada et al. (2018) demonstrated such bubble-dynamic high-strain-rate rheometry by using least-squares shooting to minimize the difference between simulated and experimental bubble radius histories. 
-  We generalize their technique to account for additional uncertainties in the model, initial conditions, and material properties needed to uniquely simulate the bubble dynamics. 
-  Ensemble-based data assimilation minimizes the computational expense associated with the bubble cavitation model. 
-  We test an ensemble Kalman filter (EnKF), an iterative ensemble Kalman smoother (IEnKS), and a hybrid ensemble-based 4D–Var method (En4D-Var) on synthetic data, assessing their estimations of the viscosity and shear modulus of a Kelvin-Voigt material. 
-  Results show that En4D–Var and IEnKS provide better moduli estimates than EnKF. 
-  Applying these methods to the experimental data of Estrada et al. (2018) yields similar material property estimates to those they obtained, but provides additional information about uncertainties. 
-  In particular, the En4D–Var yields lower viscosity estimates for some experiments, and the dynamic estimators reveal a potential mechanism that is unaccounted for in the model, whereby the viscosity is reduced in some cases due to material damage occurring at bubble collapse.
+- title: "Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges"
+  authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan
+  journal: Physics of Plasmas
+  image: zheng20pop.jpg
+  abstract: "One-dimensional (1d3v) and two-dimensional (2d3v) particle-in-cell/Monte Carlo collision (PIC/MCC) simulations are performed for a balanced direct current magnetron sputtering (DCMS) discharge.
+    The plasma parameters obtained by both simulations above the target racetrack share similar features and magnitudes under similar discharge intensities, i.e., similar local discharge current densities.
+    The commonly observed high-energy tail of electron energy distribution in DCMS discharges are reproduced in both simulations.
+    The accuracy and applicability of using one-dimensional simulations to qualitatively investigate the characteristics of balanced DCMS discharge are confirmed.
+    In terms of capturing the key physical mechanisms in DCMS, one-dimensional PIC simulation is an efficient method, which could largely alleviate the computational expense and preserve the physical fidelity of modeling results.
 "
 
 - title: "Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas"
