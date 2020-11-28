@@ -1,0 +1,13 @@
+@article{fu20_high_energ_ballis_elect_low,
+  author =       {Yangyang Fu and Bocong Zheng and De-Qi Wen and Peng Zhang and
+                  Qi Hua Fan and John P Verboncoeur},
+  title =        {High-Energy Ballistic Electrons in Low-Pressure
+                  Radio-Frequency Plasmas},
+  journal =      {Plasma Sources Science and Technology},
+  volume =       29,
+  number =       9,
+  pages =        {09LT01},
+  year =         2020,
+  doi =          {10.1088/1361-6595/abb21b},
+  url =          {https://doi.org/10.1088/1361-6595/abb21b},
+}

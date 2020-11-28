@@ -1,0 +1,13 @@
+@article{zheng20_influen_metas_atoms_low_press,
+  author =       {Bocong Zheng and Yangyang Fu and De-qi Wen and Keliang Wang
+                  and Thomas Schuelke and Qi Hua Fan},
+  title =        {Influence of Metastable Atoms in Low Pressure Magnetized
+                  Radio-Frequency Argon Discharges},
+  journal =      {Journal of Physics D: Applied Physics},
+  volume =       53,
+  number =       43,
+  pages =        435201,
+  year =         2020,
+  doi =          {10.1088/1361-6463/ab9f68},
+  url =          {https://doi.org/10.1088/1361-6463/ab9f68},
+}

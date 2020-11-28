@@ -1,0 +1,13 @@
+@article{fu20_simil_capac_radio_frequen_disch_nonloc_regim,
+  author =       {Yangyang Fu and Bocong Zheng and Peng Zhang and Qi Hua Fan and
+                  John P. Verboncoeur and Xinxin Wang},
+  title =        {Similarity of Capacitive Radio-Frequency Discharges in
+                  Nonlocal Regimes},
+  journal =      {Physics of Plasmas},
+  volume =       27,
+  number =       11,
+  pages =        113501,
+  year =         2020,
+  doi =          {10.1063/5.0022788},
+  url =          {https://doi.org/10.1063/5.0022788},
+}
