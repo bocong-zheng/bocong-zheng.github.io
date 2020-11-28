@@ -1,5 +1,5 @@
 - name: Bocong Zheng
-  photo: spencer_headshot.jpg
+  photo: portrait.jpg
   info: Scientist, Fraunhofer USA 
   email: bzheng@fraunhofer.org
   github: https://github.com/bocong-zheng
@@ -8,8 +8,8 @@
   cv: cv/cv.pdf
   number_educ: 3
   education1: (2018- ) Scientist, Fraunhofer USA
-  education2: (2016-7) Postdoctor Researcher <br> (with <a href="https://www.egr.msu.edu/people/profile/qfan" target="_blank">Qi Hua Fan</a>)
-  education3: (2016) Ph.D. Surface Engineering<br> Dalian University of Technology (with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Jon Freund</a>)
+  education2: (2016-7) Postdoctor Researcher
+  education3: (2016) Ph.D. Surface Engineering, Dalian University of Technology
   education1short: (2018- ) Scientist, Fraunhofer USA 
   education2short: (2016-7) Postdoc, MSU 
   education3short: (2016) Ph.D. SE, DLUT 
