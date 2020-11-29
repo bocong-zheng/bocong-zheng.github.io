@@ -1,0 +1,15 @@
+@article{wang18_magnet_enhan_plasm_exfol_polyan,
+  author =       {Keliang Wang and Bocong Zheng and Maheshwar Shrestha and
+                  Thomas Schuelke and Qi-Hua Fan},
+  title =        {Magnetically Enhanced Plasma Exfoliation of
+                  Polyaniline-Modified Graphene for Flexible Solid-State
+                  Supercapacitors},
+  journal =      {Energy Storage Materials},
+  volume =       14,
+  number =       {nil},
+  pages =        {230-237},
+  year =         2018,
+  doi =          {10.1016/j.ensm.2018.04.004},
+  url =          {https://doi.org/10.1016/j.ensm.2018.04.004},
+}
+

@@ -1,0 +1,14 @@
+@article{shrestha18_compar_study_furnac_flash_lamp,
+  author =       {Maheshwar Shrestha and Keliang Wang and Bocong Zheng and Laura
+                  Mokrzycki and Qi Fan},
+  title =        {Comparative Study of Furnace and Flash Lamp Annealed Silicon
+                  Thin Films Grown By Plasma Enhanced Chemical Vapor Deposition},
+  journal =      {Coatings},
+  volume =       8,
+  number =       3,
+  pages =        97,
+  year =         2018,
+  doi =          {10.3390/coatings8030097},
+  url =          {https://doi.org/10.3390/coatings8030097},
+}
+

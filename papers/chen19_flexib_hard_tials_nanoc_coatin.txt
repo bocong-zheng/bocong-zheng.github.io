@@ -1,0 +1,14 @@
+@article{chen19_flexib_hard_tials_nanoc_coatin,
+  author =       {H. Chen and B.C. Zheng and Y.G. Li and Z.L. Wu and M.K. Lei},
+  title =        {Flexible Hard Tialsin Nanocomposite Coatings Deposited By
+                  Modulated Pulsed Power Magnetron Sputtering With Controllable
+                  Peak Power},
+  journal =      {Thin Solid Films},
+  volume =       669,
+  number =       {nil},
+  pages =        {377-386},
+  year =         2019,
+  doi =          {10.1016/j.tsf.2018.10.031},
+  url =          {https://doi.org/10.1016/j.tsf.2018.10.031},
+}
+

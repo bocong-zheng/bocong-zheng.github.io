@@ -1,0 +1,13 @@
+@article{zheng18_acous_stand_wave_modul_capac_coupl_plasm,
+  author =       {Bocong Zheng and Thomas Schuelke and Qi Hua Fan},
+  title =        {Acoustic Standing Wave Modulation of Capacitively Coupled
+                  Plasmas},
+  journal =      {Journal of Physics D: Applied Physics},
+  volume =       51,
+  number =       28,
+  pages =        285201,
+  year =         2018,
+  doi =          {10.1088/1361-6463/aaca64},
+  url =          {https://doi.org/10.1088/1361-6463/aaca64},
+}
+

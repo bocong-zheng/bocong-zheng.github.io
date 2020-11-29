@@ -1,0 +1,14 @@
+@article{zheng17_global_plasm_model_react_depos,
+  author =       {B. C. Zheng and Z. L. Wu and B. Wu and Y. G. Li and M. K. Lei},
+  title =        {A Global Plasma Model for Reactive Deposition of Compound
+                  Films By Modulated Pulsed Power Magnetron Sputtering
+                  Discharges},
+  journal =      {Journal of Applied Physics},
+  volume =       121,
+  number =       17,
+  pages =        171901,
+  year =         2017,
+  doi =          {10.1063/1.4977471},
+  url =          {https://doi.org/10.1063/1.4977471},
+}
+

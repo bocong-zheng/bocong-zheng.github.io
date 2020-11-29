@@ -1,0 +1,16 @@
+@article{XiaoShu2016,
+author = {Xiao, Shu and Wu, Zhong-Zhen and Cui, Sui-Han and Liu, Liang-Liang and Zheng, Bo-Cong and Lin, Hai and Ricky K Y Fu and Tian, Xiu-Bo and Pan, Feng and Paul K Chu},
+title = {Cylindric high power impulse magnetron sputtering source and its discharge characteristics},
+publisher = {Acta Physica Sinica},
+year = {2016},
+journal = {Acta Physica Sinica},
+volume = {65},
+number = {18},
+eid = {185202},
+numpages = {},
+pages = {185202},
+keywords = {<p>high power impulse magnetron sputtering|cylindric sputtering source|simulation|discharge characteristics</p>},
+url = {http://wulixb.iphy.ac.cn/EN/abstract/article_68487.shtml},
+doi = {10.7498/aps.65.185202}
+}  
+

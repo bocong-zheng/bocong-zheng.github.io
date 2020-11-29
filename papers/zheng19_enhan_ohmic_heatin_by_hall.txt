@@ -1,0 +1,14 @@
+@article{zheng19_enhan_ohmic_heatin_by_hall,
+  author =       {Bocong Zheng and Keliang Wang and Timothy Grotjohn and Thomas
+                  Schuelke and Qi Hua Fan},
+  title =        {Enhancement of Ohmic Heating By Hall Current in Magnetized
+                  Capacitively Coupled Discharges},
+  journal =      {Plasma Sources Science and Technology},
+  volume =       {28},
+  number =       {9},
+  pages =        {09LT03},
+  year =         2019,
+  doi =          {10.1088/1361-6595/ab419d},
+  url =          {https://doi.org/10.1088/1361-6595/ab419d},
+}
+

@@ -1,0 +1,14 @@
+@article{zheng19_under_chemic_react_cathod_plasm_elect,
+  author =       {Bocong Zheng and Keliang Wang and Maheshwar Shrestha and
+                  Thomas Schuelke and Qi Hua Fan},
+  title =        {Understanding the Chemical Reactions in Cathodic Plasma
+                  Electrolysis},
+  journal =      {Plasma Sources Science and Technology},
+  volume =       28,
+  number =       8,
+  pages =        085016,
+  year =         2019,
+  doi =          {10.1088/1361-6595/ab36a6},
+  url =          {https://doi.org/10.1088/1361-6595/ab36a6},
+}
+

@@ -1,0 +1,16 @@
+@article{CuiSuiHan2017,
+author = {Cui, Sui-Han and Wu, Zhong-Zhen and Xiao, Shu and Liu, Liang-Liang and Zheng, Bo-Cong and Lin, Hai and Ricky K Y Fu and Tian, Xiu-Bo and Chu, Paul K and Tan, Wen-Chang and Pan, Feng},
+title = {Electromagnetic control and optimization of high power impulse magnetron sputtering discharges in cylindrical source},
+publisher = {Acta Physica Sinica},
+year = {2017},
+journal = {Acta Physica Sinica},
+volume = {66},
+number = {9},
+eid = {95203},
+numpages = {0},
+pages = {95203},
+keywords = {<p>high power impulse magnetron sputtering;discharge in cylindrical source;electron blocking plate;magnetic field compensation</p>},
+url = {http://wulixb.iphy.ac.cn/EN/abstract/article_70006.shtml},
+doi = {10.7498/aps.66.095203}
+}
+

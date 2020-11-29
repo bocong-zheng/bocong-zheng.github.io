@@ -1,0 +1,15 @@
+@article{zheng19_disch_depos_charac_high_power,
+  author =       {Bocong Zheng and Zhongzhen Wu and Suihan Cui and Shu Xiao and
+                  Liangliang Liu and Hai Lin and Ricky K. Y. Fu and Xiubo Tian
+                  and Feng Pan and Paul K. Chu},
+  title =        {Discharge and Deposition Characteristics of High-Power Impulse
+                  Magnetron Sputtering Using Various Target Materials},
+  journal =      {IEEE Transactions on Plasma Science},
+  volume =       47,
+  number =       1,
+  pages =        {193-198},
+  year =         2019,
+  doi =          {10.1109/tps.2018.2884475},
+  url =          {https://doi.org/10.1109/tps.2018.2884475},
+}
+

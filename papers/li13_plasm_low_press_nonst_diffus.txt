@@ -1,0 +1,13 @@
+@article{li13_plasm_low_press_nonst_diffus,
+  author =       {Yi Li and Bocong Zheng and M. K. Lei},
+  title =        {Plasma Low-Pressure Nonsteady Diffusion Fluid Model for Pulsed
+                  Plasma Recovery},
+  journal =      {IEEE Transactions on Plasma Science},
+  volume =       41,
+  number =       1,
+  pages =        {43-48},
+  year =         2013,
+  doi =          {10.1109/tps.2012.2231704},
+  url =          {https://doi.org/10.1109/tps.2012.2231704},
+}
+

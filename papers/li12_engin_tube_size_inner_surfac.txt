@@ -1,0 +1,13 @@
+@article{li12_engin_tube_size_inner_surfac,
+  author =       {Y. Li and B.C. Zheng and M.K. Lei},
+  title =        {Engineering the Tube Size for an Inner Surface Modification By
+                  Plasma-Based Ion Implantation},
+  journal =      {Vacuum},
+  volume =       86,
+  number =       9,
+  pages =        {1278-1283},
+  year =         2012,
+  doi =          {10.1016/j.vacuum.2011.11.014},
+  url =          {https://doi.org/10.1016/j.vacuum.2011.11.014},
+}
+

@@ -1,0 +1,13 @@
+@article{mackinder19_magnet_field_enhan_cold_plasm_steril,
+  author =       {Madeline A. Mackinder and Keliang Wang and Bocong Zheng and
+                  Maheshwar Shrestha and Qi Hua Fan},
+  title =        {Magnetic Field Enhanced Cold Plasma Sterilization},
+  journal =      {Clinical Plasma Medicine},
+  volume =       {17-18},
+  number =       {nil},
+  pages =        100092,
+  year =         2019,
+  doi =          {10.1016/j.cpme.2019.100092},
+  url =          {https://doi.org/10.1016/j.cpme.2019.100092},
+}
+

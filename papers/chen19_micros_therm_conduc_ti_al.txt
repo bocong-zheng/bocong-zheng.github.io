@@ -1,0 +1,14 @@
+@article{chen19_micros_therm_conduc_ti_al,
+  author =       {H. Chen and B.C. Zheng and Y.X. Ou and M.K. Lei},
+  title =        {Microstructure and Thermal Conductivity of Ti-Al-Si-N
+                  Nanocomposite Coatings Deposited By Modulated Pulsed Power
+                  Magnetron Sputtering},
+  journal =      {Thin Solid Films},
+  volume =       {693},
+  number =       {nil},
+  pages =        137680,
+  year =         2019,
+  doi =          {10.1016/j.tsf.2019.137680},
+  url =          {https://doi.org/10.1016/j.tsf.2019.137680},
+}
+

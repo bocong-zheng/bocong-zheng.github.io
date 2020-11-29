@@ -1,0 +1,14 @@
+@article{zheng15_press_effec_energ_depos_cu,
+  author =       {B. C. Zheng and D. Meng and H. L. Che and M. K. Lei},
+  title =        {On the Pressure Effect in Energetic Deposition of Cu Thin
+                  Films By Modulated Pulsed Power Magnetron Sputtering: A Global
+                  Plasma Model and Experiments},
+  journal =      {Journal of Applied Physics},
+  volume =       117,
+  number =       20,
+  pages =        203302,
+  year =         2015,
+  doi =          {10.1063/1.4921443},
+  url =          {https://doi.org/10.1063/1.4921443},
+}
+

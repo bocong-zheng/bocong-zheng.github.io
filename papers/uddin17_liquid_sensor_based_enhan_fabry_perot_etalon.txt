@@ -1,0 +1,13 @@
+@article{uddin17_liquid_sensor_based_enhan_fabry_perot_etalon,
+  author =       {Nezam Uddin and Maheshwar Shrestha and Bocong Zheng and
+                  Hyeun-Joong Yoon and Xiuqing Wang and Qi Hua Fan},
+  title =        {Liquid Sensors Based on Enhanced Fabry-Perot Etalons},
+  journal =      {IEEE Sensors Journal},
+  volume =       {nil},
+  number =       {nil},
+  pages =        {1-1},
+  year =         2017,
+  doi =          {10.1109/jsen.2017.2741783},
+  url =          {https://doi.org/10.1109/jsen.2017.2741783},
+}
+

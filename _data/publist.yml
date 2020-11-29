@@ -1,5 +1,5 @@
 - title: "Microplasma formation around microstructure arrays"
-  authors: Yangyang Fu, Bocong Zheng, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
+  authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
   url: fu20apl
   journal: Applied Physics Letters
   image: fu20apl.jpg
@@ -12,7 +12,7 @@
     The results are beneficial for the scaling, design, and optimization of microplasma array devices across a wide range of pressure regimes in practical applications."
 
 - title: "Transition characteristics and electron kinetics in microhollow cathode discharges"
-  authors: Yangyang Fu, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
+  authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
   url: fu20jap
   journal: Journal of Applied Physics
   image: fu20jap.jpg
@@ -23,7 +23,7 @@
     The results provide fundamental insights into MHCD at varying pressure conditions, which could be further beneficial for the design and fabrication of microplasma devices in practical applications."
 
 - title: "Electron dynamics in radio frequency magnetron sputtering argon discharges"
-  authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan
+  authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†
   url: zheng20psst
   journal: Plasma Sources Science and Technology
   image: zheng20psst.jpg
@@ -38,7 +38,7 @@
     The contribution of secondary electrons is negligible under typical RFMS discharge conditions."
 
 - title: "Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges"
-  authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan
+  authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan†
   url: zheng20pop
   journal: Physics of Plasmas
   image: zheng20pop.jpg
@@ -49,7 +49,7 @@
     In terms of capturing the key physical mechanisms in DCMS, one-dimensional PIC simulation is an efficient method, which could largely alleviate the computational expense and preserve the physical fidelity of modeling results."
 
 - title: "Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas"
-  authors: Yangyang Fu, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
+  authors: Yangyang Fu†, Bocong Zheng†, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
   url: fu20_simil_law_frequen_scalin_low
   journal: Applied Physics Letters
   year: 2020
@@ -63,7 +63,7 @@
     Electron kinetic invariance is illustrated for the SL and f-scaling being valid, respectively, whereas the electron kinetic variation is observed when the f-scaling is violated."
 
 - title: "Similarity of capacitive radio-frequency discharges in nonlocal regimes"
-  authors: Yangyang Fu, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P. Verboncoeur, Xinxin Wang
+  authors: Yangyang Fu†, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P. Verboncoeur, Xinxin Wang
   url: fu20_simil_capac_radio_frequen_disch_nonloc_regim
   journal: Physics of Plasmas
   year: 2020
@@ -77,7 +77,7 @@
     The results explicitly validate the scaling laws in nonlocal kinetic regimes, indicating promising application potentials of the similarity transformations across a wide range of kinetic regimes."
 
 - title: "High-energy ballistic electrons in low-pressure radio-frequency plasmas"
-  authors: Yangyang Fu, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
+  authors: Yangyang Fu†, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
   url: fu20_high_energ_ballis_elect_low
   journal: Plasma Sources Science and Technology
   year: 2020
@@ -91,7 +91,7 @@
     With a pronounced presence of HEBEs, the overall impacts of the secondary electron emission on discharge parameters, such as electron power absorption and ionization rate, are also illustrated."
 
 - title: "Influence of metastable atoms in low pressure magnetized radio-frequency argon discharges"
-  authors: Bocong Zheng, Yangyang Fu, De-Qi Wen, Keliang Wang, Thomas Schuelke, Qi Hua Fan
+  authors: Bocong Zheng, Yangyang Fu, De-Qi Wen, Keliang Wang, Thomas Schuelke, Qi Hua Fan†
   url: zheng20_influen_metas_atoms_low_press
   journal: Journal of Physics D Applied Physics
   year: 2020
@@ -121,3 +121,394 @@
     In this work, a cylindrical cathode is introduced to restrict the discharge and delay plasma loss, and a global model is established to simulate the discharge on a Cr target in N2/Ar.
     Particles with different reaction energies appearing successively produce an asynchronous discharge phenomenon, and a series of inflection points corresponding to different physical processes including excitation, sputtering, ionization, and diffusion are observed from the particle density evolution curves.
     High-precision and time-resolved spectrometry (400 ns) is utilized to monitor the evolution of particles with time, and inflection points predicted by the model are observed experimentally to verify the particle behavior in the HiPIMS discharge."
+
+- title: "Microstructure and thermal conductivity of Ti-Al-Si-N nanocomposite coatings deposited by modulated pulsed power magnetron sputtering"
+  authors: Hui Chen, Bocong Zheng, Yixiang Ou, Mingkai Lei
+  url: chen19_micros_therm_conduc_ti_al
+  journal: Thin Solid Films
+  year: 2019
+  info: 693, 137680
+  doi: 10.1016/j.tsf.2019.137680
+  image: chen19_micros_therm_conduc_ti_al.jpg
+  abstract: "Hard Ti-Al-Si-N coatings are widely used in cutting tools, due to their excellent mechanical properties and superior thermal properties.
+    In this study, Ti-Al-Si-N coatings are deposited by modulated pulsed power magnetron sputtering, with various substrate bias voltages from −35 V to −130 V.
+    As the bias voltage goes up, the composition of coatings remained nearly unchanged, maintained as a constant of Ti0.18Al0.26Si0.05N0.51.
+    However, the Ti-Al-Si-N coatings have a decrease in (200)-preferred orientation; dense columnar structure (Zone I) of Ti-Al-Si-N coatings gradually evolves into featureless and flat cross sections structure (Zone T).
+    As increasing the substrate bias voltage, the hardness increases from 31.2 GPa to 37.5 GPa, the H/E* value increases from 0.079 to 0.090, while the compressive residual stress of coatings raises from -1.22 GPa to -2.15 GPa.
+    The thermal conductivity of coatings is examined by transient thermoreflectance technique, which decreases from 5.4 W/m*K to 2.1 W/m*K with the bias voltage.
+    The values of electric resistivity ρ for all coatings are very large, ranging from 147 kΩ⋅m to 173 kΩ⋅m.
+    The electronic thermal conductivity has no contribution to the thermal conductivity of Ti-Al-Si-N coatings, which is mainly determined by the phonon thermal conductivity.
+    As increasing the substrate bias voltage, the average grain size of Ti-Al-Si-N nanocomposite coatings decreases from 16 nm to 5 nm.
+    The interfacial density per unit volume is therefore increased, and leading to more interface scattering of the phonons in the heat transport progress, which is the key parameter in determining thermal conductivity of Ti-Al-Si-N nanocomposite coatings."
+
+- title: "Magnetic field enhanced cold plasma sterilization"
+  authors: Madeline A. Mackinder, Keliang Wang, Bocong Zheng, Maheshwar Shrestha, Qi Hua Fan†
+  url: mackinder19_magnet_field_enhan_cold_plasm_steril
+  journal: Clinical Plasma Medicine
+  year: 2020
+  info: 17-18, 100092
+  doi: 10.1016/j.cpme.2019.100092
+  image: mackinder19_magnet_field_enhan_cold_plasm_steril.jpg
+  abstract: "Cold plasma sterilization offers an efficient way to sterilize medical components and instruments.
+    This paper reports using a magnetized plasma to realize low-temperature sterilization.
+    A radio frequency dielectric barrier discharge is created in a quartz tube using a mixture of argon and oxygen gas.
+    A uniform amount of Escherichia coli is applied onto glass slides and exposed to the plasma afterglow at different pressures with and without a magnetic field.
+    Optical emission spectroscopy is used to identify the plasma species present.
+    The magnetic field significantly promotes the intensity of the plasma and the sterilization efficiency.
+    A process gas pressure of 100 mTorr presents the most effective treatment with a sterilization time less than one minute and sample temperature below 32 °C."
+
+- title: "Reduction of capacitive coupling in inductively coupled plasmas by solenoid coils on dielectric window"
+  authors: Bocong Zheng, Maheshwar Shrestha, Keliang Wang, Thomas Schuelke, Evgeny Shun’ko, Veniamin Belkin, Qi Hua Fan†
+  url: zheng19_reduc_capac_coupl_induc_coupl
+  journal: Journal of Applied Physics
+  year: 2019
+  info: 126, 123302
+  doi: 10.1063/1.5116585
+  image: zheng19_reduc_capac_coupl_induc_coupl.jpg
+  abstract: "Solenoid coils with grounded ends positioned on the dielectric window were proposed and numerically studied to reduce the capacitive coupling in conventional inductively coupled plasma (ICP) sources.
+    The capacitive coupling between the plasma and the coils was subsequently suppressed, leading to a significant reduction of the window erosion.
+    To understand the plasma characteristics and the advantages of this configuration, the discharges by the solenoid coil were modeled and compared with a conventional planar coil ICP discharge.
+    The solenoid coil could generate a plasma with higher density than the planar coil under the same absorbed power.
+    The ratio of inductive to capacitive heating power of the solenoid coil was more than one magnitude higher than that of the planar ICP source.
+    The voltage drop on the dielectric window under the solenoid coil was significantly reduced, which was attributed to a potential shielding effect of the grounded end of the radio frequency coil."
+
+- title: "Enhancement of ohmic heating by hall current in magnetized capacitively coupled discharges"
+  authors: Bocong Zheng, Keliang Wang, Timothy Grotjohn, Thomas Schuelke, Qi Hua Fan†
+  url: zheng19_enhan_ohmic_heatin_by_hall
+  journal: Plasma Sources Science and Technology
+  year: 2019
+  info: 28, 09LT03
+  doi: 10.1088/1361-6595/ab419d
+  image: zheng19_enhan_ohmic_heatin_by_hall.jpg
+  abstract: "In low-pressure capacitively coupled discharges, a heating mode transition from a pressure-heating dominated state to an Ohmic-heating dominated state is known by applying a small transverse magnetic field.
+    Here we demonstrate via particle-in-cell simulations and a moment analysis of the Boltzmann equation that the enhancement of Ohmic heating is induced by the Hall current in the E times B direction.
+    As the magnetic field increases, the Ohmic heating in the E times B direction dominates the total electron power absorption.
+    The Ohmic heating induced by the Hall current can be well approximated from the Ohmic heating of unmagnetized capacitively coupled discharges."
+
+- title: "Understanding the chemical reactions in cathodic plasma electrolysis"
+  authors: Bocong Zheng, Keliang Wang, Maheshwar Shrestha, Thomas Schuelke, Qi Hua Fan†
+  url: zheng19_under_chemic_react_cathod_plasm_elect
+  journal: Plasma Sources Science and Technology
+  year: 2019
+  info: 28, 085016
+  doi: 10.1088/1361-6595/ab36a6
+  image: zheng19_under_chemic_react_cathod_plasm_elect.jpg
+  abstract: "Plasma electrolysis (PE) combines the characteristics of electrolysis and plasma discharges, creating high-energy-density plasmas that lead to intensive physical processes and chemical reactions on the working electrode.
+    The authors have found that the physical processes and the chemical reactions could be decoupled under certain conditions, and a textured electrode surface could be created through a chemical-reaction-dominated process instead of an irregular porous surface produced by the physical-dominated interactions.
+    A plasma fluid model for the chemical reaction-dominated discharge is established with constraint conditions obtained from the experiments.
+    This study aims to elucidate the plasma characteristics and the chemical reactions in cathodic PE.
+    The modeling reveals that the plasma is highly electronegative, and the dominant neutral species are H2 and O2 dissociated from water vapor.
+    The decoupling mechanism is attributed to the low surface tension, high viscosity and high boiling point of glycerol in the electrolyte, which suppress the localized intensive physical interactions and promote the formation of a stable vapor layer.
+    The formation of textured surface is attributed to the anisotropic chemical etching by the reactive species generated in the plasmas."
+
+- title: "Graphene wrapped mxene via plasma exfoliation for all-solid-state flexible supercapacitors"
+  authors: Keliang Wang†, Bocong Zheng, Madeline A. Mackinder, Nina Baule, Hui Qiao, Hong Jin, Thomas Schuelke, and Qi Hua Fan
+  url: wang19_graph_wrapp_mxene_via_plasm
+  journal: Energy Storage Materials
+  year: 2019
+  info: 20, 299-306
+  doi: 10.1016/j.ensm.2019.04.029
+  image: wang19_graph_wrapp_mxene_via_plasm.jpg
+  abstract: "Two dimensional transition metal carbides and nitrides, known as MXenes, are promising materials for energy storage.
+    Although superior capacitance performance has been demonstrated using MXene electrodes in supercapacitors, the relatively high resistance and inefficient separation process limit the materials applications.
+    This work reports an innovative facile method combined with plasma exfoliation to fabricating graphene-wrapped MXene.
+    This method includes two key aspects: 1) incorporating graphite oxide (GO) into MXene, and 2) plasma exfoliating of GO-modified MXene.
+    The resulting materials, denoted as MXene@rGO, have a layered structure with reduced graphene on the MXene surfaces.
+    All-solid-state flexible supercapacitors have been fabricated using the MXene@rGO materials.
+    Comparing to regular MXene, the MXene@rGO supercapacitors exhibited two times higher specific capacitance as well as excellent charge/discharge and mechanical stability.
+    This research has the potential to lead to the development of new electrode materials that significantly promote the capacity of energy storage."
+
+- title: "Hollow cathode effect modified time-dependent global model and high-power impulse magnetron sputtering discharge and transport in cylindrical cathode"
+  authors: Suihan Cui, Zhongzhen Wu†, Hai Lin, Shu Xiao, Bocong Zheng, Liangliang Liu, Xiaokai An, Ricky K. Y. Fu, Xiubo Tian, Wenchang Tan, Paul K. Chu
+  url: cui19_hollow_cathod_effec_modif_time
+  journal: Journal of Applied Physics
+  year: 2019
+  info: 125, 063302
+  doi: 10.1063/1.5048554
+  image: cui19_hollow_cathod_effec_modif_time.jpg
+  abstract: "High-power impulse magnetron sputtering boasts high ionization, large coating density, and good film adhesion but suffers from drawbacks such as low deposition rates, unstable discharge, and different ionization rates for different materials.
+    Herein, a cylindrical cathode in which the special cathode shape introduces the hollow cathode effect to enhance the discharge is described.
+    To study the discharge performance of the cylindrical cathode, a hollow cathode effect modified time-dependent global model is established to fit the discharge current pulses.
+    The simulation results indicate that the cylindrical cathode has relatively large Hall parameters of 24 (700 V) to 26 (1000 V).
+    Compared to the planar cathode, the cylindrical cathode has a larger plasma density as a result of the hollow cathode effect.
+    In addition, the ionization rate and ion return probability increase by about 3.0% and 4.3%, respectively.
+    Particle transport derived from the plasma diffusion model shows that the magnetic field enables further diffusion of ions than atoms, resulting in nearly pure ion deposition on the substrate.
+    The deposition rate and ion current measured experimentally support the simulation model and results, and this model provides a universal platform to simulate plasma systems with similar structures."
+
+- title: "Flexible hard Ti-Al-Si-N nanocomposite coatings deposited by modulated pulsed power magnetron sputtering with controllable peak power"
+  authors: Hui Chen, Bocong Zheng, Yuge Li, Zhili Wu and Mingkai Lei
+  url: chen19_flexib_hard_tials_nanoc_coatin
+  journal: Thin Solid Films
+  year: 2019
+  info: 669, 377-386
+  doi: 10.1016/j.tsf.2018.10.031
+  image: chen19_flexib_hard_tials_nanoc_coatin.jpg
+  abstract: "TiAlSiN nanocomposite coatings were deposited by modulated pulsed power magnetron sputtering (MPPMS) with the varied peak power from 24.8 to 56.8 kW.
+    The coatings had a typical nc-TiAlN/a-Si3N4 nanocomposite structure.
+    The microstructure of the coatings changed from a columnar structure (Zone I in Thornton's Model) at 24.8 kW and 35.2 kW to a dense glassy-like structure (Zone T) at 44.6 kW and 56.8 kW.
+    With increasing peak power from 24.8 to 56.8 kW, the hardness increased from 23.6 to 31.3 GPa, the H/E⁎ changed from 0.079 to 0.091, elastic recovery (We) increased from 50.1% to 57.4%, and compressive macrostress (σ) changed from −0.16 to −1.59 GPa.
+    Fracture toughness (KIC) of the coatings was measured by the indentation test with a Vickers diamond indenter at the load L of 500 mN and 1000 mN.
+    KIC increased from 0.96 to 1.77 MPa∙m1/2 with the peak power from 24.8 to 44.6 kW, except for no fracture at the highest peak power of 56.8 kW.
+    The highest hardness, H/E⁎ ratio and elastic recovery of 31.3 GPa, 0.091, 57.4% with the macrostress of −1.59 GPa were obtained at the peak power of 56.8 kW.
+    The enhanced toughness of TiAlSiN nanocomposite coatings was obtained at peak power of 44.6 kW and 56.8 kW, which was attributed to dense structure in the Zone T at high peak power.
+    Effect of the bombarding energy (Ebi) and surface mobility (D) of the incident species on Zone T structure was explained by the electron densities and temperature, and number densities of Ti and Al sputtered species simulated using a global plasma model.
+    The critical parameter of structural transformation from a columnar structure to a dense glassy-like structure is the increase of bombarding energy E and mobility of species D.
+    The flexible and hard TiAlSiN nanocomposite coatings were deposited by MPPMS at higher peak power."
+
+- title: "Discharge and deposition characteristics of high-power impulse magnetron sputtering using various target materials"
+  authors: Bocong Zheng, Zhili Wu†, Suihan Cui, Shu Xiao, Liangliang Liu, Hai Lin, Ricky K. Y. Fu, Xiubo Tian, Feng Pan†, P. K. Chu
+  url: zheng19_disch_depos_charac_high_power
+  journal: IEEE Transactions on Plasma Science
+  year: 2019
+  info: 47(1), 193
+  doi: 10.1109/TPS.2018.2884475
+  image: zheng19_disch_depos_charac_high_power.jpg
+  abstract: "The discharge and deposition characteristics of high-power impulse magnetron sputtering using various target materials with different sputtering yields (Cu, Cr, Ti, and C) were analyzed by a plasma global model.
+    The experimental discharge voltages and currents of various target materials were used as the input parameters of the model.
+    The analysis reveals that the ionization fraction of the sputtered species decreases as increasing the sputtering yield, due to the electron temperature was reduced through the cooling effect of sputtered species.
+    However, as the sputtering yield increases, the plasma density under a given discharge power density is increased and the selfsputtering runaway can be fully developed, resulting in a higher fraction of ion density in the form of metal ions in the ion deposition flux.
+    For some high-sputtering yield materials, such as Cu and Cr, this fraction can be up to 95%."
+
+- title: "Magnetically enhanced plasma exfoliation of polyaniline-modified graphene for flexible solid-state supercapacitors"
+  authors: Keliang Wang†, Bocong Zheng, Maheshwar Shrestha, Thomas Schuelke, Qi Hua Fan†
+  url: wang18_magnet_enhan_plasm_exfol_polyan
+  journal: Energy Storage Materials
+  year: 2018
+  info: 14, 230-237
+  doi: 10.1016/j.ensm.2018.04.004
+  image: wang18_magnet_enhan_plasm_exfol_polyan.jpg
+  abstract: "Flexible solid-state supercapacitors featuring lightweight and large capacitance have many attractive applications in portable and wearable electronics.
+    Nitrogen-doped graphene is a promising electrodes material due to the extraordinary properties of graphene.
+    This study demonstrates a magnetically enhanced dielectric barrier discharge that has the potential to efficiently exfoliate polyaniline-modified graphene at low input power.
+    The plasma exfoliated N-doped graphene is subsequently used to fabricate flexible solid-state supercapacitors, which exhibit large specific capacitance of 45 mF/cm2 at 0.2 A cm−2 charging rate, ~100% capacitance retention after 1000 charge/discharge cycles at different current densities, and outstanding mechanical flexibility.
+    The magnetically enhanced plasma exfoliation of graphite oxide offers a potentially cost-effective approach to producing high-quality carbon nanomaterials for energy storage."
+
+- title: "Acoustic standing wave modulation of capacitively coupled plasmas"
+  authors: Bocong Zheng, Thomas Schuelke, Qi Hua Fan†
+  url: zheng18_acous_stand_wave_modul_capac_coupl_plasm
+  journal: Journal of Physics D Applied Physics
+  year: 2018
+  info: 51, 285201
+  doi: 10.1088/1361-6463/aaca64
+  image: zheng18_acous_stand_wave_modul_capac_coupl_plasm.jpg
+  abstract: "This work presents a concept of using acoustic standing waves to modulate plasmas.
+    A 1D self-consistent fluid model combined with an acoustic standing wave model has been established to investigate the strong coupling effects between acoustic standing waves and capacitively coupled argon plasmas.
+    The modulation effects are revealed by comparing the spatiotemporal distributions of electron density and excited species number density with and without the acoustic standing waves in one acoustic period, as well as the electric field, the electron temperature, the ionization and excitation rates, and the power density in one radio-frequency period.
+    Under the nonlinear acoustic standing waves, the plasmas oscillate in between the electrodes, which indicates a strong modulation effect beyond conventional regimes.
+    This modulation effect is primarily attributed to the neutral flux friction to the plasma species and secondarily to the variation of the neutral gas density.
+    A pulsed excited species flux with a maximum value up to twice of the minimum can be achieved at the electrodes as a result of the acoustic standing wave modulation.
+    The distributions of the ionization and excitation rates in one RF period are significantly influenced by the acoustic standing waves, due to the variation of the neutral gas density and electron temperature.
+    This study initiates the effort to understand the mechanisms and characteristics of plasma discharges in a high intensity acoustic standing wave field.
+    Using acoustic waves to modulate plasmas has the potential to create many new applications and promote plasma-materials interactions."
+
+- title: "Comparative study of furnace and flash lamp annealed silicon thin films grown by plasma enhanced chemical vapor deposition"
+  authors: Maheshwar Shrestha, Keliang Wang, Bocong Zheng, Laura Mokrzycki, and Qi Hua Fan†
+  url: shrestha18_compar_study_furnac_flash_lamp
+  journal: Coatings
+  year: 2018
+  info: 8(3), 97
+  doi: 10.3390/coatings8030097
+  image: shrestha18_compar_study_furnac_flash_lamp.jpg
+  abstract: "Low-temperature growth of microcrystalline silicon (mc-Si) is attractive for many optoelectronic device applications.
+    This paper reports a detailed comparison of optical properties, microstructure, and morphology of amorphous silicon (a-Si) thin films crystallized by furnace annealing and flash lamp annealing (FLA) at temperatures below the softening point of glass substrate.
+    The initial a-Si films were grown by plasma enhanced chemical vapor deposition (PECVD).
+    Reflectance measurement indicated characteristic peak in the UV region ~280 nm for the furnace annealed (>550 C) and flash lamp annealed films, which provided evidence of crystallization.
+    The film surface roughness increased with increasing the annealing temperature as well as after the flash lamp annealing.
+    X-ray diffraction (XRD) measurement indicated that the as-deposited samples were purely amorphous and after furnace crystallization, the crystallites tended to align in one single direction (202) with uniform size that increased with the annealing temperature.
+    On the other hand, the flash lamp crystalized films had randomly oriented crystallites with different sizes.
+    Raman spectroscopy showed the crystalline volume fraction of 23.5%, 47.3%, and 61.3% for the samples annealed at 550 C, 650 C, and with flash lamp, respectively.
+    The flash lamp annealed film was better crystallized with rougher surface compared to furnace annealed ones."
+
+- title: "Electrophoretic deposition of activated carbon yp-50 with ethyl cellulose binders for supercapacitor electrodes"
+  authors: Maheshwar Shrestha, Ishop Amatya, Keliang Wang, Bocong Zheng, Zhengrong Gu, Qi Hua Fan†
+  url: shrestha17_elect_depos_activ_carbon_yp
+  journal: Journal of Energy Storage
+  year: 2017
+  info: 13, 206-210
+  doi: 10.1016/j.est.2017.07.015
+  image: shrestha17_elect_depos_activ_carbon_yp.jpg
+  abstract: "Activated carbon is widely used for electrodes in supercapacitors.
+    Fabrication of supercapacitors is currently based on hydraulic pressing method, which is a lengthy process (several h) with challenges in controlling the layer thickness and mass.
+    This work reports an electrophoresis method that can efficiently deposit activated biochar onto metal electrodes.
+    The authors demonstrated that a suitable binder (ethyl cellulose) could ensure sufficient coating adhesion.
+    Using commercial activated carbon (YP-50) as electrode material, supercapacitors were fabricated using electrophoretic deposition and the specific capacitance reached 158.6 F g^-1.
+    The electrophoretic deposition was highly efficient as it only took about 3 min and enabled accurate control of the electrode mass by simply varying the deposition time.
+    This work demonstrates that electrophoretic deposition has the potential to replace the conventional hydraulic press method in manufacturing supercapacitors that use sustainable and environmentally friendly biochar."
+
+- title: "Liquid sensors based on enhanced fabry-perot etalons"
+  authors: Nezam Uddin, Maheshwar Shrestha, Bocong Zheng, Hyeun-Joong Yoon, Xiuqing Wang, Qi Hua Fan†
+  url: uddin17_liquid_sensor_based_enhan_fabry_perot_etalon
+  journal: IEEE Sensors Journal
+  year: 2017
+  info: 17(22), 7348
+  doi: 10.1109/JSEN.2017.2741783
+  image: uddin17_liquid_sensor_based_enhan_fabry_perot_etalon.jpg
+  abstract: "An optically enhanced Fabry–Perot etalon was demonstrated to accurately measure the refractive index of sugar solutions.
+    The etalon consisted of two silver/SiO2-coated glass substrates separated by a spacer.
+    The semi-transparent silver films of ∼ 15-nm thickness greatly enhanced the interference of light.
+    The SiO2 layer coated on the silver created a hydrophilic surface in addition to protecting the silver from oxidation.
+    The hydrophilic behavior of the SiO2 films together with a capillary action allowed the tested liquids to easily flow into and wet the cavity between the two pieces of glass.
+    Optical spectrophotometer was used to measure the transmission spectra of the etalon with and without a sugar solution.
+    The refractive indices of sugar solutions with different brix concentrations were subsequently determined from the interference peak positions.
+    The results showed a linear response of the refractive index to the brix concentration with a ratio of ∼ 1.7 × 10−3 refractive index per brix%, making the etalons promising for analyzing specific chemicals in liquids."
+
+- title: "A global plasma model for reactive deposition of compound films by modulated pulsed power magnetron sputtering discharges"
+  authors: Bocong Zheng, Zhili Wu, Bi Wu, Yuge Li, Mingkai Lei
+  url: zheng17_global_plasm_model_react_depos
+  journal: Journal of Applied Physics
+  year: 2017
+  info: 121, 171901
+  doi: 10.1063/1.4977471
+  image: zheng17_global_plasm_model_react_depos.jpg
+  abstract: "A spatially averaged, time-dependent global plasma model has been developed to describe the reactive deposition of a TiAlSiN thin film by modulated pulsed power magnetron sputtering (MPPMS) discharges in Ar/N2 mixture gas, based on the particle balance and the energy balance in the ionization region, and considering the formation and erosion of the compound at the target surface.
+    The modeling results show that, with increasing the N2 partial pressure from 0% to 40% at a constant working pressure of 0.3 Pa, the electron temperature during the strongly ionized period increases from 4 to 7 eV and the effective power transfer coefficient, which represents the power fraction that effectively heats the electrons and maintains the discharge, increases from about 4% to 7%; with increasing the working pressure from 0.1 to 0.7 Pa at a constant N2 partial pressure of 25%, the electron temperature decreases from 10 to 4 eV and the effective power transfer coefficient decreases from 8% to 5%.
+    Using the modeled plasma parameters to evaluate the kinetic energy of arriving ions, the ion-to-neutral flux ratio of deposited species, and the substrate heating, the variations of process parameters that increase these values lead to an enhanced adatom mobility at the target surface and an increased input energy to the substrate, corresponding to the experimental observation of surface roughness reduction, the microstructure transition from the columnar structure to the dense featureless structure, and the enhancement of phase separation.
+    At higher N2 partial pressure or lower working pressure, the modeling results demonstrate an increase in electron temperature, which shifts the discharge balance of Ti species from Tiþ to Ti2þ and results in a higher return fraction of Ti species, corresponding to the higher Al/Ti ratio of deposited films at these conditions.
+    The modeling results are well correlated with the experimental observation of the composition variation and the microstructure transition of deposited TiAlSiN compound films, demonstrating the applicability of this approach in understanding the characteristics of reactive MPPMS discharges as well as the composition and microstructure of deposited compound films.
+    The model for reactive MPPMS discharges has no special limitations and is applicable to high power impulse magnetron sputtering discharges as well."
+
+- title: "Electromagnetic control and optimization of high-power impulse magnetron sputtering discharges in cylindrical source"
+  authors: Suihan Cui, Zhongzhen Wu†, Shu Xiao, Liangliang Liu, Bocong Zheng, Hai Lin, Ricky K. Y. Fu, Xiubo Tian, Paul K. Chu, Wenchang Tan, Feng Pan†
+  url: CuiSuiHan2017
+  journal: Acta Physica Sinica
+  year: 2017
+  info: 66(9), 095203
+  doi: 10.7498/aps.66.095203
+  image: CuiSuiHan2017.jpg
+  abstract: "High-power impulse magnetron sputtering (HiPIMS), a new physical vapor deposition technique which combines the advantages of the high ionization rates of the sputtered materials and control of electromagnetism, has been widely used to deposit high-performance coatings with a large density and high adhesion.
+    However, HiPIMS has some intrinsic disadvantages such as the low deposition rate, unstable discharge, and different ionization rates for different materials thereby hampering wider industrial adoption.
+    We have recently designed an optimized cylindrical source based on the hollow cathode effect to circumvent the aforementioned limitations.
+    However, during the operation of the cylindrical source, the discharge is inhomogeneous and the etching stripes are nonuniform.
+    In order to determine the underlying mechanism and optimize the electromagnetic control, the discharge in the HiPIMS cylindrical source is simulated.
+    The tangential magnetic field distribution on the target surface of the cylindrical sputtering source is inhomogeneous and electron runaway is serious, resulting in a relatively low plasma density.
+    Two solutions are proposed to improve the situations.
+    The first one is electrical improvement by installing an electron blocking plate, and the second one is magnetic improvement by adding compensating magnets.
+    Our simulation results of the first method show that a potential well is produced by the electron blocking plate to suppress electron runaway and the plasma density is improved significantly, especially around the central cross-section of the cylindrical sputtering source.
+    The discharge becomes homogeneous, and the etching stripes are uniform albeit not full enough.
+    The second method of magnetic improvement significantly improves the homogeneity of the tangential magnetic field distribution on the target surface and the target utilization rate.
+    After adding the optimized compensating magnets, the shape of the effective area (the value of the tangential magnetic field in a range of 25-50 mT) on the target surface can be controlled and made zonal.
+    The target utilization rate increases to over 80% from 60%.
+    In order to obtain the optimal conditions, the two techniques are combined.
+    A larger and more homogeneous etching ring is observed by adopting both the electrical and magnetic improvements as predicted and explained by the simulation results.
+    It can be concluded that the combination of the two improvement techniques can improve and optimize the HiPIMS cylindrical source."
+
+- title: "Cylindric high power impulse magnetron sputtering source and its discharge characteristics"
+  authors: Shu Xiao, Zhongzhen Wu†, Suihan Cui, Liangliang Liu, Bocong Zheng, Hai Lin, Ricky K. Y. Fu, Xiubo Tian, Feng Pan†, Paul K. Chu
+  url: XiaoShu2016
+  journal: Acta Physica Sinica
+  year: 2016
+  info: 65, 185202
+  doi: 10.7498/aps.65.185202
+  image: XiaoShu2016.jpg
+  abstract: "High power impulse magnetron sputtering (HiPIMS) is a popular physical vapor deposition (PVD) technology because of the high ionization of the sputtering materials, large coating density, good adhesion, and other favorable properties.
+    However, this technique suffers some disadvantages such as the small deposition rate induced by the high target potential, the metallic droplets produced by the unstable discharge, and different ionizations for different sputtering materials, thereby hampering wider acceptance by the industry.
+    A cylindric HiPIMS source in which the discharge is restricted in the cylinder is described in this paper.
+    By using this source, coatings can be deposited with 100% ions without metallic droplets arising from the unstable discharge, and the unionized sputtered atoms cannot be extracted by the extraction grid with negative potential.
+    Electron oscillation and repetitive sputtering of the unionized atoms occur in the cylinder to enhance collision and ionization.
+    Due to the enlarged discharge area by the cylinder internal surface comparing with the area of the ion outlet (end face of the cylinder), the sputtering ions converge from the inwall to the center of the cylinder target and form an enhanced flow to spray out from the source, which will improve the deposition rate.
+    The structure and discharge characteristics of the novel HiPIMS source are investigated by simulation and experiments.
+    Our results indicate that 8 magnets can provide the reasonable magnetic field and the highest target utilization rate.
+    The distributions of electrons and ions in the target each consist of 8 petals in the optimized magnetic structure, and the highest plasma density happens near the target, which is above 1.31017 m-3.
+    The discharge characteristics confirm that the cylindric sputtering source can be operated under HiPIMS conditions and the evolution of the target currents with target voltage exhibits I-V characteristics typical of HiPIMS.
+    An obvious pre-ionization is observed on the discharge glow and discharge current curves when the extra direct current (DC) is added.
+    The racetrack area is about 60.0% of the target surface.
+    The ion current curves are similar to those of the target currents, but a 40 s delay and about one-tenth current value are observed compared with the target currents.
+    The sputtering is improved by the extra DC, inducing the increased metallic ions and the opposite evolution of gas ions.
+    The results suggest that the cylindric sputtering source can be effectively used to conduct HiPIMS and is a novel way to improve and promote the application of HiPIMS."
+
+- title: "On the pressure effect in energetic deposition of cu thin films by modulated pulsed power magnetron sputtering: A global plasma model and experiments"
+  authors: Bocong Zheng, Di Meng, Honglong Che, Mingkai Lei†
+  url: zheng15_press_effec_energ_depos_cu
+  journal: Journal of Applied Physics
+  year: 2015
+  info: 117, 203302
+  doi: 10.1063/1.4921443
+  image: zheng15_press_effec_energ_depos_cu.jpg
+  abstract: "The modulated pulsed power magnetron sputtering (MPPMS) discharge processes are numerically modeled and experimentally investigated, in order to explore the effect of the pressure on MPPMS discharges as well as on the microstructure of the deposited thin films.
+    A global plasma model has been developed based on a volume-averaged global description of the ionization region, considering the loss of electrons by cross-B diffusion.
+    The temporal variations of internal plasma parameters at different pressures from 0.1 to 0.7 Pa are obtained by fitting the model to duplicate the experimental discharge data, and Cu thin films are deposited by MPPMS at the corresponding pressures.
+    The surface morphology, grain size and orientation, and microstructure of the deposited thin films are investigated by scanning electron microscopy, transmission electron microscopy, and x-ray diffraction.
+    By increasing the pressure from 0.1 to 0.7 Pa, both the ion bombardment energy and substrate temperature which are estimated by the modeled plasma parameters decrease, corresponding to the observed transition of the deposited thin films from a void free structure with a wide distribution of grain size (zone T) into an underdense structure with a fine fiber texture (zone 1) in the extended structure zone diagram (SZD).
+    The microstructure and texture transition of Cu thin films are well-explained by the extended SZD, suggesting that the primary plasma processes are properly incorporated in the model.
+    The results contribute to the understanding of the characteristics of MPPMS discharges, as well as its correlation with the microstructure and texture of deposited Cu thin films."
+
+- title: "Nitrogen mass transfer models for plasma-based low-energy ion implantation"
+  authors: Bocong Zheng, Kesheng Wang, Zhipeng Zhang, Honglong Che, Mingkai Lei†
+  url: zheng15_nitrog_mass_trans_model_plasm
+  journal: Journal of Vacuum Science and Technology A
+  year: 2015
+  info: 33(2), 021311
+  doi: 10.1116/1.4907713
+  image: zheng15_nitrog_mass_trans_model_plasm.jpg
+  abstract: "The nitrogen mass transfer process in plasma-based low-energy ion implantation (PBLEII) is theoretically and experimentally studied in order to explore the process mechanism of PBLEII and therefore to optimize the apparatus design and the process conditions.
+    An electron cyclotron resonance (ECR) microwave discharge generates the nitrogen plasma with a high density of 10^11–10^12 ions/cm3, which diffuses downstream to the process chamber along the divergent magnetic field.
+    The nitrogen ions in the plasma implant into the surface and transport to the matrix of an austenitic stainless steel under the low negative pulsed bias of -2 kV at a process temperature of 400 C.
+    A global plasma model is used to simulate the ECR microwave plasma discharge for a range of working pressures and microwave powers.
+    The fluid models are adopted to calculate the plasma downstream diffusion, the sheath expansion and the low-energy ion implantation on the surface.
+    A nonlinear kinetic discrete model is established to describe the nitrogen transport in the austenitic stainless steel and the results are compared with the experimental measurements.
+    Under an average implantation current density of 0.3–0.6 mA/cm2, the surface nitrogen concentration in the range from 18.5 to 29 at.% is a critical factor for the nitrogen transport in the AISI 304 austenitic stainless steel by PBLEII, which accelerates the implanted nitrogen diffusion inward up to 6–12 um during a nitriding time of 4 h."
+
+- title: "Nonuniform plasma diffusion and multi-pulse effect in plasma-based ion implantation"
+  authors: Bocong Zheng, Mingkai Lei†
+  url: zheng15_nonun_plasm_diffus_multi_pulse
+  journal: Nuclear Instruments and Methods in Physics Research Section B Beam Interactions with Materials and Atoms
+  year: 2015
+  info: 343, 83-88
+  doi: 10.1016/j.nimb.2014.11.025
+  image: zheng15_nonun_plasm_diffus_multi_pulse.jpg
+  abstract: "The nonuniform plasma caused by plasma diffusion and the incomplete plasma recovery during short pulse-off time have great influences on the sheath dynamics and the implantation efficiency in plasma-based ion implantation (PBII).
+    In this paper, a magnetized plasma diffusion fluid model is established to describe the plasma diffusion in PBII process.
+    Together with a magnetized sheath fluid model, the full pulse period including sheath dynamics during pulse-on time and plasma recovery during pulse-off time can be described, and the models are verified to be accurate by comparing with experimentally measured electron density profiles.
+    The influence of process parameters on sheath dynamics, the influence of incomplete plasma recovery under multi-pulse bias on implantation efficiency are investigated by solving the presented models with considering plasma diffusion.
+    It is found that the variations of process parameters which accelerate the plasma diffusion reduce the steady-state sheath thickness and increase the ion implantation current, and vice versa.
+    Change the pulse frequency from 1 kHz to 100 kHz under typical PBII process parameters significantly increases the average ion implantation current density, and the limiting factor which affects the implantation efficiency is converted from duty cycle to plasma diffusion.
+    Increasing the plasma density and decreasing the transverse magnetic field are the effective methods to improve the implantation efficiency as well.
+    The results reported here help to provide a theoretical guidance for the parameters optimization in PBII process."
+
+- title: "Modeling of inner surface modification of a cylindrical tube by plasma-based low-energy ion implantation"
+  authors: Bocong Zheng, Kesheng Wang, Mingkai Lei†
+  url: zheng15_model_inner_surfac_modif_cylin
+  journal: Plasma Science and Technology
+  year: 2015
+  info: 17, 309-316
+  doi: 10.1088/1009-0630/17/4/09
+  image: zheng15_model_inner_surfac_modif_cylin.jpg
+  abstract: "The inner surface modification process by plasma-based low-energy ion implantation (PBLEII) with an electron cyclotron resonance (ECR) microwave plasma source located at the central axis of a cylindrical tube is modeled to optimize the low-energy ion implantation parameters for industrial applications.
+    In this paper, a magnetized plasma diffusion fluid model has been established to describe the plasma nonuniformity caused by plasma diffusion under an axial magnetic field during the pulse-off time of low pulsed negative bias.
+    Using this plasma density distribution as the initial condition, a sheath collisional fluid model is built up to describe the sheath evolution and ion implantation during the pulse-on time.
+    The plasma nonuniformity at the end of the pulse-off time is more apparent along the radial direction compared with that in the axial direction due to the geometry of the linear plasma source in the center and the difference between perpendicular and parallel plasma diffusion coefficients with respect to the magnetic field.
+    The normalized nitrogen plasma densities on the inner and outer surfaces of the tube are observed to be about 0.39 and 0.24, respectively, of which the value is 1 at the central plasma source.
+    After a 5 μs pulse-on time, in the area less than 2 cm from the end of the tube, the nitrogen ion implantation energy decreases from 1.5 keV to 1.3 keV and the ion implantation angle increases from several degrees to more than 40°; both variations reduce the nitrogen ion implantation depth.
+    However, the nitrogen ion implantation dose peaks of about 2×10^10 – 7×10^10 ions/cm2 in this area are 2 – 4 times higher than that of 1.18×10^10 ions/cm2 and 1.63×10^10 ions/cm2 on the inner and outer surfaces of the tube.
+    The sufficient ion implantation dose ensures an acceptable modification effect near the end of the tube under the low energy and large angle conditions for nitrogen ion implantation, because the modification effect is mainly determined by the ion implantation dose, just as the mass transfer process in PBLEII is dominated by low-energy ion implantation and thermal diffusion.
+    Therefore, a comparatively uniform surface modification by the low-energy nitrogen ion implantation is achieved along the cylindrical tube on both the inner and outer surfaces."
+
+- title: "Plasma low-pressure nonsteady diffusion fluid model for pulsed plasma recovery"
+  authors: Yi Li, Bocong Zheng, Mingkai Lei†
+  url: li13_plasm_low_press_nonst_diffus
+  journal: IEEE Transactions on Plasma Science
+  year: 2013
+  info: 41(1), 43-48
+  doi: 10.1109/TPS.2012.2231704
+  image: li13_plasm_low_press_nonst_diffus.jpg
+  abstract: "In order to describe the diffusion behavior of lowpressure plasma, the low-pressure nonsteady diffusion fluid model is built using the equations of ion continuity and ion motion, Boltzmann’s relationship of the electron, and variable mobility of the ion.
+    The plasma recovery process in pulsed plasma is described by this model from the viewpoint of diffusion, which is the basic physical mechanism causing recovery.
+    The fluid model is verified to be accurate compared with the particle-in-cell method.
+    The characteristics of multipulse sheath dynamics are studied using this model for inner surface modification of a tube by the plasma-based ion implantation (PBII).
+    Compared with the no-diffusion case, the sheath expansion during pulse-on time is accelerated, and the sheath is thicker when considering the plasma diffusion.
+    During pulse-off time, the plasma recovery behavior of the ion-depleted region is obtained.
+    For a shorter pulse-off time, the plasma cannot recover to its initial state.
+    The maximum of the ion-implantation current can be strongly decreased due to the incomplete plasma recovery, but the average ion-implantation current is improved and achieves itsmaximum when the duty cycle is 0.8.
+    All these results can provide beneficial theoretical guidance for the parameter optimization in the PBII."
+
+- title: "Engineering the tube size for an inner surface modification by plasma-based ion implantation"
+  authors: Yi Li, Bocong Zheng, Mingkai Lei†
+  url: li12_engin_tube_size_inner_surfac
+  journal: Vaccum
+  year: 2012
+  info: 86, 1278-1283
+  doi: 10.1016/j.vacuum.2011.11.014
+  image: li12_engin_tube_size_inner_surfac.jpg
+  abstract: "In order to apply the inner surface modification of the tube component by plasma-based ion implantation (PBII) technique, the tube size has been characterized by introducing a characteristic parameter -- the critical radius of tube (CRT) to optimize the process parameters of a grid-enhanced PBII technique for the nitrogen ion implantation onto the inner surface of an FeeCreNi stainless steel tube under the process conditions, including the plasma density of central plasma source, the steady pulse voltage, the grid electrode radius, and the processing pressure.
+    The temporal sheath dynamics of the ion matrix sheath on the inner surface of the tube component modified by PBII were demonstrated by the collisional fluid model using the equations of ion continuity and ion motion, Poisson’s equation, and Boltzmann’s relationship of electron to determine the effective range of the process parameters.
+    The optimum process parameters were found by the effect factors of the CRT which was bounded by the two important process parameters, i.e. the ion implantation dose and the processing time, for the engineering practice due to the available dependence on the surface modification effect in suitable costs."

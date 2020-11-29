@@ -1,0 +1,13 @@
+@article{zheng15_model_inner_surfac_modif_cylin,
+  author =       {Bocong Zheng and Kesheng Wang and Mingkai Lei},
+  title =        {Modeling of Inner Surface Modification of a Cylindrical Tube
+                  By Plasma-Based Low-Energy Ion Implantation},
+  journal =      {Plasma Science and Technology},
+  volume =       17,
+  number =       4,
+  pages =        {309-316},
+  year =         2015,
+  doi =          {10.1088/1009-0630/17/4/09},
+  url =          {https://doi.org/10.1088/1009-0630/17/4/09},
+}
+

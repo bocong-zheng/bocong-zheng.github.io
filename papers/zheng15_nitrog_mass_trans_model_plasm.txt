@@ -1,0 +1,15 @@
+@article{zheng15_nitrog_mass_trans_model_plasm,
+  author =       {Bocong Zheng and Kesheng Wang and Zhipeng Zhang and Honglong
+                  Che and Mingkai Lei},
+  title =        {Nitrogen Mass Transfer Models for Plasma-Based Low-Energy Ion
+                  Implantation},
+  journal =      {Journal of Vacuum Science \& Technology A: Vacuum, Surfaces,
+                  and Films},
+  volume =       33,
+  number =       2,
+  pages =        021311,
+  year =         2015,
+  doi =          {10.1116/1.4907713},
+  url =          {https://doi.org/10.1116/1.4907713},
+}
+

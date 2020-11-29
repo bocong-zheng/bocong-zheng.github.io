@@ -1,0 +1,16 @@
+@article{cui19_hollow_cathod_effec_modif_time,
+  author =       {Suihan Cui and Zhongzhen Wu and Hai Lin and Shu Xiao and
+                  Bocong Zheng and Liangliang Liu and Xiaokai An and Ricky K. Y.
+                  Fu and Xiubo Tian and Wenchang Tan and Paul K. Chu},
+  title =        {Hollow Cathode Effect Modified Time-Dependent Global Model and
+                  High-Power Impulse Magnetron Sputtering Discharge and
+                  Transport in Cylindrical Cathode},
+  journal =      {Journal of Applied Physics},
+  volume =       125,
+  number =       6,
+  pages =        063302,
+  year =         2019,
+  doi =          {10.1063/1.5048554},
+  url =          {https://doi.org/10.1063/1.5048554},
+}
+

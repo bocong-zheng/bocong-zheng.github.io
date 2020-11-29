@@ -1,0 +1,14 @@
+@article{zheng15_nonun_plasm_diffus_multi_pulse,
+  author =       {B.C. Zheng and M.K. Lei},
+  title =        {Nonuniform Plasma Diffusion and Multi-Pulse Effect in
+                  Plasma-Based Ion Implantation},
+  journal =      {Nuclear Instruments and Methods in Physics Research Section B:
+                  Beam Interactions with Materials and Atoms},
+  volume =       343,
+  number =       {nil},
+  pages =        {83-88},
+  year =         2015,
+  doi =          {10.1016/j.nimb.2014.11.025},
+  url =          {https://doi.org/10.1016/j.nimb.2014.11.025},
+}
+
