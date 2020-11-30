@@ -7,6 +7,8 @@ permalink: /
 
 ## Welcome!
 
+#### `$ whoami`
+
 Plasma is one of the four fundamental states of matter, and the most abundant form of ordinary matter in the universe.
 New medical devices and therapies stand to improve human health outcomes the world over.
 Though innovating in this space is challenging, predictive simulations provide a promising path forward.
