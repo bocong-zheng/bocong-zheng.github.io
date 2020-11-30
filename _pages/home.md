@@ -10,11 +10,12 @@ permalink: /
 #### `$ whoami`
 
 <a href="https://en.wikipedia.org/wiki/Plasma_(physics)" target="_blank">Plasma</a> is one of the four fundamental states of matter, and the most abundant form of ordinary matter in the universe.
-New medical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulations provide a promising path forward.
-I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+Low-temperature plasma has been successfully used in many industrial applications, including capacitively coupled plasmas (CCP), inductively coupled plasmas (ICP), magnetron sputtering (MS), microdischarges, electric propulsion, plasma-liquid interactions, ion sources, plasma medicines, etc.
+New plasma sources and applications are still emerging.
+Albeit research and innovation in this area are challenging, plasma simulation provides another promising path forward in addition to diagnosis and theory.
+I am a **computational plasma scientist**.
+My research interest is to develop practical plasma simulation software, and through plasma simulation combined with theoretical analysis, to improve the understanding of various discharge mechanisms and develop new plasma-based applications.
+Recent examples include a self-consistent and complete description of electron dynamics in <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng20psst.pdf" target="_blank">radio-frequency magnetron sputtering (RFMS)</a> discharges based on fully kinetic particle simulations, <a href="{{ site.url }}{{ site.baseurl }}/papers/fu20_simil_law_frequen_scalin_low.pdf" target="_blank">similarities</a> and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_enhan_ohmic_heatin_by_hall.pdf" target="_blank">magnetic field effects</a> in capacitively coupled plasmas, <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_reduc_capac_coupl_induc_coupl.pdf" target="_blank">reduction of capacitive coupling</a> in inductively coupled plasmas, and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_under_chemic_react_cathod_plasm_elect.pdf" target="_blank">chemical reactions</a> in plasma electrolysis.
 
 <div class="container">
 <div class="row">
