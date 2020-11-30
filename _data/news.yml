@@ -1,2 +1,2 @@
 - date: 16 November, 2020
-  headline: "Paper on similarity law in CCP discharges <a href="{{ site.url }}{{ site.baseurl }}/papers/fu20_simil_law_frequen_scalin_low.pdf" target="_blank">was published by APL<a> after revision. Check it out!"
+  headline: "Paper on similarity law in CCP discharges <a href='{{ site.url }}{{ site.baseurl }}/papers/fu20_simil_law_frequen_scalin_low.pdf' target='_blank'>was published by APL<a> after revision. Check it out!"
