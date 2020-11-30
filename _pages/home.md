@@ -7,8 +7,7 @@ permalink: /
 
 ## Welcome!
 
-#### `$ whoami`
-
+<a href="https://en.wikipedia.org/wiki/Plasma_(physics)" target="_blank">Plasma</a> is one of the four fundamental states of matter, and the most abundant form of ordinary matter in the universe. 
 New medical devices and therapies stand to improve human health outcomes the world over.
 Though innovating in this space is challenging, predictive simulations provide a promising path forward.
 I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
@@ -28,7 +27,7 @@ Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
 
 #### `$ id`
 
-I am a Senior Postdoctoral Scholar at the California Institute of Technology, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
+I am a scientist at the Fraunhofer Center for Coatings and Diamond Technologies, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
 I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
 Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
 I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
