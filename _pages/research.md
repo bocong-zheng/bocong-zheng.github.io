@@ -67,22 +67,20 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Cavitation as a gateway to better therapies</h4>
-Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
-I create high-fidelity computational methods to simulate these dynamics.
+ <h4>Electron dynamics in magnetron sputtering discharges</h4>
+Magnetron sputtering has become the most widely used technique for thin film deposition and is utilized in numerous industrial applications.
+I provide a self-consistent and complete description of its dynamics.
 Examples are:
-* Euler--Euler and Euler--Lagrange <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-19.pdf" target="_blank">sub-grid bubble cloud models</a>
-* Accelerated models using a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">statistical paradigm and neural networks</a>
-* Implementation in my open-source solver <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-CPC-19.pdf" target="_blank">MFC</a>
+* Electron dynamics in <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng20psst.pdf" target="_blank">Radio Frequency Magnetron Sputtering </a> (RFMS) discharges
+* Comparison of RFMS and DCMS discharges (in progress)
+* Comparison of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng20pop.pdf" target="_blank">1D and 2D PIC simulations</a> for DCMS discharges
+* Breathing oscillation and electron energization in magnetron discharges (in progress) 
+* Modulation effect of pulses in magnetron discharges (in progress)
+* Discharge characteristics of HiPIMS via PIC simulation: Coulomb collisions, sputtering wind, multiply charged metal species, etc
 
-These enable realistic simulation of the bubble populations that nucleate during treatment.
-This has impacted application-specific treatments, including:
-* Improved _burst-wave lithotripsy administration_ in human trials 
-* Understanding of <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JCP-20.pdf" target="_blank">bubble-collapse-rebound</a> dynamics
-* Cavitation-induced <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-19.pdf" target="_blank">erosion potential</a> for rough materials
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/animation.gif" width="100%"/>
 </div>
 </div>
 </div>
@@ -112,62 +110,4 @@ Similar outcomes are desirable for sensitive, implanted biomedical devices.
 </div>
 </div>
  
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
- <h4>Therapy design via adjoint-based optimization</h4>
-Designing medical therapies requires efficient optimization algorithms. 
-Current methods fail to account for the _material interfaces_ or _shock waves_ that occur during treatments like lithotripsy and histotripsy.
-I created an adjoint-based technique for navigating these complications and computes the gradient-based information required for such <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-xpacc18.pdf" target="_blank">optimization and sensitivity analysis</a>.
-Coupling with <a href="{{ site.url }}{{ site.baseurl }}/software/" target="_blank">PlasCom2</a> provides a full optimization framework for medical therapies and devices.
-</div>
-<div class="col-md-3 col-sm-12" style="background-color:transparent" >
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/lithotripsy.jpg" width="175px"/>
-</div>
-</div>
-</div>
-
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
- <h4>An _in silico_ microfluidics and microcirculation</h4>
-I create simulation methods for the cellular flows that occur _in vivo_ and in biomicrofluidic devices.
-These tools are composed of physical models for the cells and particles and numerical methods to solve for their motion.
-These are implemented in <a href="{{ site.url }}{{ site.baseurl }}/software/" target="_blank">RBC3D</a>, my state-of-the-art flow solver that resolves <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRF-16.pdf" target="_blank">all particle-scale interactions</a>.
-Coupling RBC3D with <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRF-18.pdf" target="_blank">stability and optimization tools</a> I discovered:
-* The <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-RA-16.pdf" target="_blank">buckling mechanism</a>  mediating the flow of sickle cells.
-* The <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">chaotic behavior</a> of microcirculatory flows, and so computational methods cannot predict cell location (or motion) at long times.
-* A <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">data-driven low-order model</a> for the flow statistics.
-</div>
-<div class="col-md-3 col-sm-12">
-  <iframe src="https://player.vimeo.com/video/455887647?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" frameborder="0" allow="autoplay"></iframe>
-</div>
-</div>
-</div>
-
-  <!-- <iframe src="https://player.vimeo.com/video/455887646?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" frameborder="0" allow="autoplay"></iframe> -->
-<!-- <div class="embed-container embed-container-spleen"> -->
-<!-- </div> -->
-
-<!-- <div class="embed-container embed-container-leuk"> -->
-<!--   <iframe src="https://player.vimeo.com/video/455887647?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" frameborder="0" allow="autoplay"></iframe> -->
-<!-- </div> -->
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
- <h4>Targeted microcapsules for drug delivery</h4>
-Capsules can deliver drug payloads via the microcirculation and pulmonary system.
-The capsules dynamics are an important design condition in this application, which are particularly sensitive to the capsule membrane itself.
-I crafted kinematic stability analyses of this coupled dynamical system, including:
-* The first <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-JFM-18.pdf" target="_blank">Floquet analysis</a> of such a system, which classifies the stability without the ambiguity of empirical perturbations or experiments
-* <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-EJM-19.pdf" target="_blank">Non-modal extensions</a> of the stability analysis, enabling the prediction of rheometric flows and characterization of the capsule's mechanical properties
-</div>
-<div class="col-md-3 col-sm-12" >
-  <iframe src="https://player.vimeo.com/video/455887720?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="156px" frameborder="0" allow="autoplay"></iframe>
-</div>
-</div>
-</div>
 
