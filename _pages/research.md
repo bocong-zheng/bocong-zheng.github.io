@@ -66,7 +66,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="row align-items-end">
-<div class="col-md-6 col-sm-12">
+<div class="col-md-9 col-sm-12">
  <h4>Discharge physics of magnetron sputtering</h4>
 Magnetron sputtering has become the most widely used technique for thin film deposition and is utilized in numerous industrial applications.
 We provide a self-consistent and complete description of its dynamics.
@@ -81,8 +81,8 @@ Examples are:
 Another efficient tool for studying magnetron sputtering is the global model, which we used to study the discharge characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng15_press_effec_energ_depos_cu.pdf" target="_blank">HiPIMS</a> and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng17_global_plasm_model_react_depos.pdf" target="_blank">reactive HiPIMS</a> and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_disch_depos_charac_high_power.pdf" target="_blank">the influence of the target material</a> in HiPIMS discharges.
 
 </div>
-<div class="col-md-6 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="100%"/>
+<div class="col-md-3 col-sm-12" style="background-color:transparent;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="200%"/>
 </div>
 </div>
 </div>
