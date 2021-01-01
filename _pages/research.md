@@ -128,7 +128,7 @@ Some examples include:
 </div>
 
 
-<div class="jumbotron">
+<!-- <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
  <h4>Similarity law in plasma discharges</h4>
@@ -139,4 +139,4 @@ Some examples include:
   <img src="{{ site.url }}{{ site.baseurl }}/images/similarity.jpg" width="100%"/>
 </div>
 </div>
-</div>
+</div> -->
