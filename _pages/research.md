@@ -81,8 +81,8 @@ Examples are:
 Another efficient tool for studying magnetron sputtering is the global model, which we used to study the discharge characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng15_press_effec_energ_depos_cu.pdf" target="_blank">HiPIMS</a> and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng17_global_plasm_model_react_depos.pdf" target="_blank">reactive HiPIMS</a> and <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng19_disch_depos_charac_high_power.pdf" target="_blank">the influence of the target material</a> in HiPIMS discharges.
 
 </div>
-<div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="200%"/>
+<div class="col-md-6 col-sm-12" style="background-color:transparent;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="100%"/>
 </div>
 </div>
 </div>
@@ -112,7 +112,7 @@ Examples are:
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>discharge physics of microplasmas</h4>
+ <h4>Discharge physics of microplasmas</h4>
 Microplasmas have received increasing attention in the last few decades for their wide range of applications in light sources, lasers, spectroscopy, surface processing and biomedicine.
 We have studied several fundamental issues of microplasma discharges.
 Some examples include:
