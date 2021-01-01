@@ -66,7 +66,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="col-md-6 col-sm-12">
  <h4>Discharge physics of magnetron sputtering</h4>
 Magnetron sputtering has become the most widely used technique for thin film deposition and is utilized in numerous industrial applications.
 We provide a self-consistent and complete description of its dynamics.
