@@ -39,6 +39,34 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
+<h4><b>ASTRA: Efficient Plasma Simulation Software</b></h4>
+
+<b>Author:</b>
+<i>Bocong Zheng</i>
+
+<b>ASTRA</b> is an efficient plasma particle simulation software.
+ASTRA combines multiple efficient algorithms to eliminate the spatial and temporal constraints in the state of the art particle in cell schemes.
+The computation is one to two orders of magnitude more efficient than the current commercial software.
+
+ASTRA for plasma discharge publications:
+* Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Transition characteristics and electron kinetics in microhollow cathode discharges, Journal of Applied Physics, in press.
+* Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges, Physics of Plasmas, in press.
+* Yangyang Fu†, Bocong Zheng†, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas, Applied Physics Letters 117, 204101 (2020).
+* Yangyang Fu†, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Xinxin Wang, Similarity of capacitive radio-frequency discharges in nonlocal regimes, Physics of Plasmas 27, 113501 (2020).
+* Yangyang Fu†, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Highenergy ballistic electrons in low-pressure radio-frequency plasmas, Plasma Sources Science and Technology 29, 09LT01 (2020).
+* Bocong Zheng, Yangyang Fu, De-Qi Wen, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Influence of metastable atoms in low pressure magnetized radio-frequency argon discharges, Journal of Physics D: Applied Physics 53, 435201 (2020).
+* Bocong Zheng, Keliang Wang, Timothy Grotjohn, Thomas Schuelke, and Qi Hua Fan†, Enhancement of ohmic heating by hall current in magnetized capacitively coupled discharges, Plasma Sources Science and Technology 28, 09LT03 (2019).
+
+</div>
+<div class="col-md-3 col-sm-12">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/astra_diag.jpg" width="100%"/>
+</div>
+</div>
+</div>
+
+<!-- <div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
 <h4><b>QBMMlib: Moment Methods for Fully-coupled Flows</b></h4>
 <a href="https://github.com/sbryngelson/QBMMlib" target="_blank"><button class="btn btn-primary btn-sm">GIT: QBMMLIB</button></a>
 <a href="https://github.com/sbryngelson/PyQBMMlib" target="_blank"><button class="btn btn-primary btn-sm">GIT: PyQBMMLIB</button></a>
@@ -184,4 +212,4 @@ Parallel communication (MPI) enables large simulations, such as model vascular n
   <img src="{{site.url}}{{site.baseurl}}/images/respic/network.jpeg" width="175px "/>
 </div>
 </div>
-</div>
+</div> -->
