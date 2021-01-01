@@ -50,7 +50,7 @@ ASTRA combines multiple efficient algorithms to eliminate the spatial and tempor
 The computation is one to two orders of magnitude more efficient than the current commercial software.
 </div>
 
-<div class="col-md-6 col-sm-12">
+<div class="col-md-9 col-sm-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/astra_diag.jpg" width="100%"/>
 </div>
 
