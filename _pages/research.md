@@ -82,7 +82,7 @@ Another efficient tool for studying magnetron sputtering is the global model, wh
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/animation.gif" width="100%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="100%"/>
 </div>
 </div>
 </div>
@@ -122,7 +122,7 @@ Some examples include:
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/microplasma.gif" width="100%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/actuator.mp4" width="100%"/>
 </div>
 </div>
 </div>

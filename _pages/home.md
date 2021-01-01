@@ -16,7 +16,7 @@ Albeit research and innovation in this area are challenging, plasma simulation p
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/animation.gif" width="100%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="100%"/>
 Electron dynamics during one RF period in RFMS. <br/>
 Zheng et al, submitted to <i>PSST</i> (2020)
 </center>
