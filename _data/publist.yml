@@ -1,10 +1,3 @@
-- title: "Strategies to anode protection in Lithium metal battery - A review"
-  authors: Jiawei Li, Zhao Kong, Xiaoxi Liu, Bocong Zheng, Elias Garratt, Qi Hua Fan, Thomas Schuelke, Keliang Wang, Hui Xu, Hong Jin
-  url: li20_strat_anode
-  journal: InfoMat
-  image: li20_strat_anode.jpg
-  abstract: ""
-
 - title: "Microplasma formation around microstructure arrays"
   authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
   url: fu20apl
@@ -18,10 +11,21 @@
     The macroscopic discharge parameters scaling with the gas pressure and the electron kinetics are also examined.
     The results are beneficial for the scaling, design, and optimization of microplasma array devices across a wide range of pressure regimes in practical applications."
 
+- title: "Strategies to anode protection in Lithium metal battery - A review"
+  authors: Jiawei Li, Zhao Kong, Xiaoxi Liu, Bocong Zheng, Elias Garratt, Qi Hua Fan, Thomas Schuelke, Keliang Wang, Hui Xu, Hong Jin
+  url: li20_strat_anode
+  journal: InfoMat
+  year: 2021
+  info: in press
+  image: li20_strat_anode.jpg
+  abstract: ""
+
 - title: "Transition characteristics and electron kinetics in microhollow cathode discharges"
   authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
   url: fu20jap
   journal: Journal of Applied Physics
+  year: 2021
+  info: in press
   image: fu20jap.jpg
   abstract: "We demonstrate the transition characteristics in microhollow cathode discharges (MHCD) at different gas pressures by using two-dimension particle-in-cell/Monte Carlo collision (2d3v) simulations.
     We found that the discharge is inside the hollow activity at low pressure while mainly locates between the anode and the cathode rectangular protrusion tip at high pressure.
@@ -48,7 +52,9 @@
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan†
   url: zheng20pop
   journal: Physics of Plasmas
-  year: in press
+  year: 2021
+  info: in press
+  doi: 10.1063/5.0029353
   image: zheng20pop.jpg
   abstract: "One-dimensional (1d3v) and two-dimensional (2d3v) particle-in-cell/Monte Carlo collision (PIC/MCC) simulations are performed for a balanced direct current magnetron sputtering (DCMS) discharge.
     The plasma parameters obtained by both simulations above the target racetrack share similar features and magnitudes under similar discharge intensities, i.e., similar local discharge current densities.
