@@ -1,3 +1,10 @@
+- title: "Strategies to anode protection in Lithium metal battery - A review"
+  authors: Jiawei Li, Zhao Kong, Xiaoxi Liu, Bocong Zheng, Elias Garratt, Qi Hua Fan, Thomas Schuelke, Keliang Wang, Hui Xu, Hong Jin
+  url: li20_strat_anode
+  journal: InfoMat
+  image: li20_strat_anode.jpg
+  abstract: ""
+
 - title: "Microplasma formation around microstructure arrays"
   authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
   url: fu20apl
@@ -47,6 +54,22 @@
     The commonly observed high-energy tail of electron energy distribution in DCMS discharges are reproduced in both simulations.
     The accuracy and applicability of using one-dimensional simulations to qualitatively investigate the characteristics of balanced DCMS discharge are confirmed.
     In terms of capturing the key physical mechanisms in DCMS, one-dimensional PIC simulation is an efficient method, which could largely alleviate the computational expense and preserve the physical fidelity of modeling results."
+
+- title: "Efficient electrophoretic deposition of MXene/reduced graphene oxide flexible electrodes for all-solid-state supercapacitors"
+  authors: Keliang Wang†, Bocong Zheng, Madeline Mackinder, Nina Baule, Elias Garratt, Hong Jin†, Thomas Schuelke, Qi Hua Fan†
+  url: wang21_effic_elect_depos_mxene_graph
+  journal: Journal of Energy Storage
+  year: 2021
+  info: 33, 102070
+  doi: 10.1016/j.est.2020.102070
+  image: wang21_effic_elect_depos_mxene_graph.jpg
+  abstract: "MXene has been considered as a promising electrode materials for energy storage devices.
+    This work reports using an electrophoresis effect to efficiently deposit Ti3C2Tx/rGO composite on flexible substrates, which are subsequently used as the electrodes of all-solid-state supercapacitors.
+    The electrophoresis deposition does not require a binder in the fabrication of the Ti3C2Tx/rGO electrodes.
+    The structures and properties of the MXene/graphene electrode materials are characterized using Zeta potential, scanning electronic microscope, X-ray powder diffraction, Fourier-transform infrared and X-ray photoelectron spectroscopy.
+    The performance of the all-solid-state flexible supercapacitors are evaluated using cyclic voltammetry, galvanostatic charge/discharge, electrochemical impedance spectroscopy, and cycle life tests.
+    The devices show high areal specific capacitance of ~12 mF cm−2, small resistance, and excellent cycling stability at different current densities for over 4,000 cycles.
+    Moreover, the all-solid-state flexible supercapacitors exhibit superior mechanical flexibility under different deformations."
 
 - title: "Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas"
   authors: Yangyang Fu†, Bocong Zheng†, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
