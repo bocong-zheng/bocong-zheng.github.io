@@ -118,9 +118,9 @@ Examples are:
 Microplasmas have received increasing attention in the last few decades for their wide range of applications in light sources, lasers, spectroscopy, surface processing and biomedicine.
 We have studied several fundamental issues of microplasma discharges.
 Some examples include:
-* Electron kinetics and transition characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/fu20jap.pdf" target="_blank">microhollow cathode discharges</a>
-* Microplasma formation around <a href="{{ site.url }}{{ site.baseurl }}/papers/fu20jap.pdf" target="_blank">microstructure arrays</a>
-* Discharge characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/fu20jap.pdf" target="_blank">plasma electrolysis</a>
+* Electron kinetics and transition characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/fu21_trans_charac_elect_kinet_microh_cathod_disch.pdf" target="_blank">microhollow cathode discharges</a>
+* Microplasma formation around <a href="{{ site.url }}{{ site.baseurl }}/papers/fu21_trans_charac_elect_kinet_microh_cathod_disch.pdf" target="_blank">microstructure arrays</a>
+* Discharge characteristics of <a href="{{ site.url }}{{ site.baseurl }}/papers/fu21_trans_charac_elect_kinet_microh_cathod_disch.pdf" target="_blank">plasma electrolysis</a>
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">

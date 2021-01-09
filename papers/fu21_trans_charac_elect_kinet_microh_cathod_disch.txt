@@ -1,0 +1,13 @@
+@article{fu21_trans_charac_elect_kinet_microh_cathod_disch,
+  author =       {Yangyang Fu and Bocong Zheng and Peng Zhang and Qi Hua Fan and
+                  John P. Verboncoeur},
+  title =        {Transition Characteristics and Electron Kinetics in
+                  Microhollow Cathode Discharges},
+  journal =      {Journal of Applied Physics},
+  volume =       129,
+  number =       2,
+  pages =        023302,
+  year =         2021,
+  doi =          {10.1063/5.0033282},
+  url =          {https://doi.org/10.1063/5.0033282},
+}
