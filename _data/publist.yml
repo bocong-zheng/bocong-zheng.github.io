@@ -11,7 +11,7 @@
     Plasma activation can be an effective strategy to improving the capacitance and deionization performance of biochar."
 
 - title: "Microplasma formation around microstructure arrays"
-  authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
+  authors: Yangyang Fu†, Huihui Wang, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
   url: fu20apl
   journal: Applied Physics Letters
   image: fu20apl.jpg
@@ -34,11 +34,12 @@
 
 - title: "Transition characteristics and electron kinetics in microhollow cathode discharges"
   authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
-  url: fu20jap
+  url: fu21_trans_charac_elect_kinet_microh_cathod_disch
   journal: Journal of Applied Physics
   year: 2021
-  info: in press
-  image: fu20jap.jpg
+  info: 129, 023302
+  doi: 10.1063/5.0033282
+  image: fu21_trans_charac_elect_kinet_microh_cathod_disch.jpg
   abstract: "We demonstrate the transition characteristics in microhollow cathode discharges (MHCD) at different gas pressures by using two-dimension particle-in-cell/Monte Carlo collision (2d3v) simulations.
     We found that the discharge is inside the hollow activity at low pressure while mainly locates between the anode and the cathode rectangular protrusion tip at high pressure.
     The spatial distributions of the typical discharge parameters (e.g., electric potential and electron density) are presented.
