@@ -63,12 +63,12 @@
 
 - title: "Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan†
-  url: zheng20pop
+  url: zheng21_compa_1d_2d
   journal: Physics of Plasmas
   year: 2021
-  info: in press
-  doi: 10.1063/5.0029353
-  image: zheng20pop.jpg
+  info: 28, 014504
+  doi:  10.1063/5.0029353
+  image: zheng21_compa_1d_2d.jpg
   abstract: "One-dimensional (1d3v) and two-dimensional (2d3v) particle-in-cell/Monte Carlo collision (PIC/MCC) simulations are performed for a balanced direct current magnetron sputtering (DCMS) discharge.
     The plasma parameters obtained by both simulations above the target racetrack share similar features and magnitudes under similar discharge intensities, i.e., similar local discharge current densities.
     The commonly observed high-energy tail of electron energy distribution in DCMS discharges are reproduced in both simulations.
