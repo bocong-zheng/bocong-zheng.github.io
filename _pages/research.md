@@ -73,7 +73,7 @@ We provide a self-consistent and complete description of its dynamics.
 Examples are:
 * Electron dynamics in <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng20psst.pdf" target="_blank">Radio Frequency Magnetron Sputtering</a> (RFMS) discharges
 * Comparison of RFMS and DCMS discharges (in progress)
-* Comparison of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng20pop.pdf" target="_blank">1D and 2D PIC simulations</a> for DCMS discharges
+* Comparison of <a href="{{ site.url }}{{ site.baseurl }}/papers/zheng21_compa_1d_2d.pdf" target="_blank">1D and 2D PIC simulations</a> for DCMS discharges
 * Breathing oscillation and electron energization in magnetron discharges (in progress) 
 * Modulation effect of pulses in magnetron discharges (in progress)
 * Discharge characteristics of HiPIMS via PIC simulation: Coulomb collisions, sputtering wind, multiply charged metal species, etc (in progress)
