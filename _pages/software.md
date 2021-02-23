@@ -56,8 +56,9 @@ The computation is one to two orders of magnitude more efficient than the curren
 
 <div class="col-md-12 col-sm-12">
 ASTRA for plasma discharge publications:
-* Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Transition characteristics and electron kinetics in microhollow cathode discharges, Journal of Applied Physics, in press.
-* Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges, Physics of Plasmas, in press.
+* Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Electron dynamics in radio frequency magnetron sputtering argon discharges with a dielectric target, Plasma Sources Science and Technology (2021) in press.
+* Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Transition characteristics and electron kinetics in microhollow cathode discharges, Journal of Applied Physics 129(2), 023302 (2021).
+* Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges, Physics of Plasmas 28, 014504 (2021).
 * Yangyang Fu†, Bocong Zheng†, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas, Applied Physics Letters 117, 204101 (2020).
 * Yangyang Fu†, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Xinxin Wang, Similarity of capacitive radio-frequency discharges in nonlocal regimes, Physics of Plasmas 27, 113501 (2020).
 * Yangyang Fu†, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Highenergy ballistic electrons in low-pressure radio-frequency plasmas, Plasma Sources Science and Technology 29, 09LT01 (2020).
