@@ -46,10 +46,12 @@
     The fundamental electron kinetics (e.g., electron power absorption) are examined based on the momentum analysis of the electron Boltzmann equation.
     The results provide fundamental insights into MHCD at varying pressure conditions, which could be further beneficial for the design and fabrication of microplasma devices in practical applications."
 
-- title: "Electron dynamics in radio frequency magnetron sputtering argon discharges"
+- title: "Electron dynamics in radio frequency magnetron sputtering argon discharges with a dielectric target"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†
   url: zheng20psst
   journal: Plasma Sources Science and Technology
+  year: 2021
+  info: in press
   image: zheng20psst.jpg
   abstract: "We demonstrate a self-consistent and complete description of electron dynamics in a typical electropositive radio frequency magnetron sputtering (RFMS) argon discharge.
     The electron dynamics, including the electron power absorption dynamics in one radio frequency (RF) period, is studied via a fully kinetic 2d3v particle-in-cell/Monte Carlo collision (PIC/MCC) electrostatic simulation.
