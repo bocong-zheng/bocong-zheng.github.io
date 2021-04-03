@@ -1,0 +1,13 @@
+@article{zheng21_elect_dynam_radio_frequen_magnet,
+  author =       {Bocong Zheng and Yangyang Fu and Keliang Wang and Thomas
+                  Schuelke and Qi Hua Fan},
+  title =        {Electron Dynamics in Radio Frequency Magnetron Sputtering
+                  Argon Discharges With a Dielectric Target},
+  journal =      {Plasma Sources Science and Technology},
+  volume =       30,
+  number =       3,
+  pages =        035019,
+  year =         2021,
+  doi =          {10.1088/1361-6595/abe9f9},
+  url =          {https://doi.org/10.1088/1361-6595/abe9f9},
+}
