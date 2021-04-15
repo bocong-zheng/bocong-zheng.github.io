@@ -56,7 +56,8 @@ The computation is one to two orders of magnitude more efficient than the curren
 
 <div class="col-md-12 col-sm-12">
 ASTRA for plasma discharge publications:
-* Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Electron dynamics in radio frequency magnetron sputtering argon discharges with a dielectric target, Plasma Sources Science and Technology (2021) in press.
+* Yangyang Fu†, Huihui Wang, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P Verboncoeur, Direct current microplasma formation around microstructure arrays, Applied Physics Letters (2021) in press.
+* Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Electron dynamics in radio frequency magnetron sputtering argon discharges with a dielectric target, Plasma Sources Science and Technology 30, 035019 (2021).
 * Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Transition characteristics and electron kinetics in microhollow cathode discharges, Journal of Applied Physics 129(2), 023302 (2021).
 * Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†, Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges, Physics of Plasmas 28, 014504 (2021).
 * Yangyang Fu†, Bocong Zheng†, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P Verboncoeur, Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas, Applied Physics Letters 117, 204101 (2020).
