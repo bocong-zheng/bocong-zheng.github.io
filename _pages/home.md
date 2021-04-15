@@ -21,7 +21,7 @@ My research interest is to develop practical plasma simulation software, and thr
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/research_rfms.gif" width="100%"/>
 Electron dynamics during one RF period in RFMS. <br/>
-Zheng et al, <i>PSST</i> in press (2021)
+Zheng et al, <i>PSST</i> 30, 035019 (2021)
 </center>
 </div>
 </div>
