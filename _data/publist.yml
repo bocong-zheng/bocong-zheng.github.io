@@ -15,7 +15,8 @@
   url: fu21apl
   journal: Applied Physics Letters
   year: 2021
-  info: in press
+  info: 18, 174101
+  doi: 10.1063/5.0046312
   image: fu20apl.jpg
   abstract: "We demonstrate the formation and transition behaviors of a microplasma around microstructure arrays at different gas pressures via two-dimensional particle-in-cell/Monte Carlo collision (2d3v) simulations.
     It is found that the microdischarge occurs outside the cathode microcavities at the lowest pressure while starts penetrating the microcavities with a curved sheath edge as the pressure increases.
