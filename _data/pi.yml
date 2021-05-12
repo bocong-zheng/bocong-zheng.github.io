@@ -1,15 +1,15 @@
 - name: Bocong Zheng
   photo: portrait.jpg
-  info: Scientist, Fraunhofer USA 
-  email: bzheng@fraunhofer.org
+  info: Scientist
+  email: bcong.zheng@gmail.com
   github: https://github.com/bocong-zheng
   researchgate: https://www.researchgate.net/profile/Bocong_Zheng
   scholar: https://scholar.google.com/citations?user=h1zSWh0AAAAJ&hl=en
   cv: cv/cv.pdf
   number_educ: 3
-  education1: (2018- ) Scientist, Fraunhofer USA
+  education1: (2018- ) Scientist
   education2: (2017) Postdoc, Michigan State University
   education3: (2016) Ph.D. Surface Engineering, Dalian University of Technology
-  education1short: (2018- ) Scientist, Fraunhofer USA 
+  education1short: (2018- ) Scientist
   education2short: (2017) Postdoc, Michigan State University
   education3short: (2016) Ph.D., Dalian University of Technology
