@@ -12,12 +12,12 @@
 
 - title: "Direct current microplasma formation around microstructure arrays"
   authors: Yangyang Fu†, Huihui Wang, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
-  url: fu21apl
+  url: fu21_direc_curren_microp_format_aroun_micros_array
   journal: Applied Physics Letters
   year: 2021
   info: 18, 174101
   doi: 10.1063/5.0046312
-  image: fu20apl.jpg
+  image: fu21_direc_curren_microp_format_aroun_micros_array.jpg
   abstract: "We demonstrate the formation and transition behaviors of a microplasma around microstructure arrays at different gas pressures via two-dimensional particle-in-cell/Monte Carlo collision (2d3v) simulations.
     It is found that the microdischarge occurs outside the cathode microcavities at the lowest pressure while starts penetrating the microcavities with a curved sheath edge as the pressure increases.
     At high pressure, microhollow cathode discharges (MHCDs) are formed inside the microcavities and operate in parallel.
@@ -28,12 +28,17 @@
 
 - title: "Strategies to anode protection in Lithium metal battery - A review"
   authors: Jiawei Li, Zhao Kong, Xiaoxi Liu, Bocong Zheng, Elias Garratt, Qi Hua Fan, Thomas Schuelke, Keliang Wang, Hui Xu, Hong Jin
-  url: li20_strat_anode
+  url: li21_strat_to_anode_protec_lithium_metal_batter
   journal: InfoMat
   year: 2021
-  info: in press
-  image: li20_strat_anode.jpg
-  abstract: ""
+  info: 
+  doi: 10.1002/inf2.12189
+  image: li21_strat_to_anode_protec_lithium_metal_batter.jpg
+  abstract: "Lithium metal batteries (LMBs) are considered the most promising energy storage devices for applications such as electrical vehicles owing to its tremendous theoretical capacity (3860 mAh g−1).
+  However, the serious safety issues and poor cycling performance caused by the dendritic crystal growth during deposition are concerned for any rechargeable batteries with a lithium metal anode.
+  To make widespread adoption a possibility, considerable efforts have been devoted to suppressing lithium (Li) dendrite growth.
+  In this review, the recent strategies to developing dendrite free Li anode, including constructing an artificial solid electrolyte interface, current collector modification, separator film improvement, and electrolyte additive, are summarized.
+  The merits and shortcomings for different strategies are reviewed and a general summary and perspective on the next generation rechargeable batteries are presented."
 
 - title: "Transition characteristics and electron kinetics in microhollow cathode discharges"
   authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
