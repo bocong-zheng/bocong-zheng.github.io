@@ -1,0 +1,14 @@
+@article{wang21_effic_elect_depos_mxene_graph,
+  author =       {Keliang Wang and Bocong Zheng and Madeline Mackinder and Nina
+                  Baule and Elias Garratt and Hong Jin and Thomas Schuelke and
+                  Qi Hua Fan},
+  title =        {Efficient Electrophoretic Deposition of Mxene/reduced Graphene
+                  Oxide Flexible Electrodes for All-Solid-State Supercapacitors},
+  journal =      {Journal of Energy Storage},
+  volume =       33,
+  number =       {nil},
+  pages =        102070,
+  year =         2021,
+  doi =          {10.1016/j.est.2020.102070},
+  url =          {https://doi.org/10.1016/j.est.2020.102070},
+}

@@ -1,0 +1,13 @@
+@article{fu21_direc_curren_microp_format_aroun_micros_array,
+  author =       {Yangyang Fu and Huihui Wang and Bocong Zheng and Peng Zhang
+                  and Qi Hua Fan and Xinxin Wang and John P. Verboncoeur},
+  title =        {Direct Current Microplasma Formation Around Microstructure
+                  Arrays},
+  journal =      {Applied Physics Letters},
+  volume =       118,
+  number =       17,
+  pages =        174101,
+  year =         2021,
+  doi =          {10.1063/5.0046312},
+  url =          {https://doi.org/10.1063/5.0046312},
+}

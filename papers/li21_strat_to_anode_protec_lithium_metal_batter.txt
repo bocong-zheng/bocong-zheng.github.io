@@ -1,0 +1,14 @@
+@article{li21_strat_to_anode_protec_lithium_metal_batter,
+  author =       {Jiawei Li and Zhao Kong and Xiaoxi Liu and Bocong Zheng and Qi
+                  Hua Fan and Elias Garratt and Thomas Schuelke and Keliang Wang
+                  and Hui Xu and Hong Jin},
+  title =        {Strategies To Anode Protection in Lithium Metal Battery: a
+                  Review},
+  journal =      {InfoMat},
+  volume =       {nil},
+  number =       {nil},
+  pages =        {inf2.12189},
+  year =         2021,
+  doi =          {10.1002/inf2.12189},
+  url =          {https://doi.org/10.1002/inf2.12189},
+}
