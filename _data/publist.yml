@@ -1,6 +1,6 @@
 - title: "Enhanced capacitance and desalination performance with plasma activated biochar electrodes"
   authors: Keliang Wang†, Bocong Zheng, Junwoo Lee, Madeline Mackinder, Hong Jin†, Thomas Schuelke, Qi Hua Fan†
-  url: wang21jece
+  # url: wang21jece
   journal: Journal of Environmental Chemical Engineering
   image: wang21jece.jpg
   abstract: "Derived from electric double layer capacitors (EDLCs), capacitive deionization (CDI) using symmetric carbon-based electrodes is an emerging approach to purifying brackish water into drinking water.
@@ -12,7 +12,7 @@
 
 - title: "Direct current microplasma formation around microstructure arrays"
   authors: Yangyang Fu†, Huihui Wang, Bocong Zheng†, Peng Zhang, Qi Hua Fan, Xinxin Wang, John P. Verboncoeur
-  url: fu21_direc_curren_microp_format_aroun_micros_array
+  # url: fu21_direc_curren_microp_format_aroun_micros_array
   journal: Applied Physics Letters
   year: 2021
   info: 18, 174101
@@ -28,7 +28,7 @@
 
 - title: "Strategies to anode protection in Lithium metal battery - A review"
   authors: Jiawei Li, Zhao Kong, Xiaoxi Liu, Bocong Zheng, Elias Garratt, Qi Hua Fan, Thomas Schuelke, Keliang Wang, Hui Xu, Hong Jin
-  url: li21_strat_to_anode_protec_lithium_metal_batter
+  # url: li21_strat_to_anode_protec_lithium_metal_batter
   journal: InfoMat
   year: 2021
   info: 
@@ -42,7 +42,7 @@
 
 - title: "Transition characteristics and electron kinetics in microhollow cathode discharges"
   authors: Yangyang Fu†, Bocong Zheng†, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
-  url: fu21_trans_charac_elect_kinet_microh_cathod_disch
+  # url: fu21_trans_charac_elect_kinet_microh_cathod_disch
   journal: Journal of Applied Physics
   year: 2021
   info: 129, 023302
@@ -56,7 +56,7 @@
 
 - title: "Electron dynamics in radio frequency magnetron sputtering argon discharges with a dielectric target"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thomas Schuelke, Qi Hua Fan†
-  url: zheng21_elect_dynam_radio_frequen_magnet
+  # url: zheng21_elect_dynam_radio_frequen_magnet
   journal: Plasma Sources Science and Technology
   year: 2021
   info: 30, 035019
@@ -74,7 +74,7 @@
 
 - title: "Comparison of 1D and 2D particle-in-cell simulations for DC magnetron sputtering discharges"
   authors: Bocong Zheng, Yangyang Fu, Keliang Wang, Thanh Tran, Thomas Schuelke, Qi Hua Fan†
-  url: zheng21_compa_1d_2d
+  # url: zheng21_compa_1d_2d
   journal: Physics of Plasmas
   year: 2021
   info: 28, 014504
@@ -88,7 +88,7 @@
 
 - title: "Efficient electrophoretic deposition of MXene/reduced graphene oxide flexible electrodes for all-solid-state supercapacitors"
   authors: Keliang Wang†, Bocong Zheng, Madeline Mackinder, Nina Baule, Elias Garratt, Hong Jin†, Thomas Schuelke, Qi Hua Fan†
-  url: wang21_effic_elect_depos_mxene_graph
+  # url: wang21_effic_elect_depos_mxene_graph
   journal: Journal of Energy Storage
   year: 2021
   info: 33, 102070
@@ -104,7 +104,7 @@
 
 - title: "Similarity law and frequency scaling in low-pressure capacitive radio frequency plasmas"
   authors: Yangyang Fu†, Bocong Zheng†, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
-  url: fu20_simil_law_frequen_scalin_low
+  # url: fu20_simil_law_frequen_scalin_low
   journal: Applied Physics Letters
   year: 2020
   info: 117, 204101
@@ -118,7 +118,7 @@
 
 - title: "Similarity of capacitive radio-frequency discharges in nonlocal regimes"
   authors: Yangyang Fu†, Bocong Zheng, Peng Zhang, Qi Hua Fan, John P. Verboncoeur, Xinxin Wang
-  url: fu20_simil_capac_radio_frequen_disch_nonloc_regim
+  # url: fu20_simil_capac_radio_frequen_disch_nonloc_regim
   journal: Physics of Plasmas
   year: 2020
   info: 27, 113501
@@ -132,7 +132,7 @@
 
 - title: "High-energy ballistic electrons in low-pressure radio-frequency plasmas"
   authors: Yangyang Fu†, Bocong Zheng, De-Qi Wen, Peng Zhang, Qi Hua Fan, John P. Verboncoeur
-  url: fu20_high_energ_ballis_elect_low
+  # url: fu20_high_energ_ballis_elect_low
   journal: Plasma Sources Science and Technology
   year: 2020
   info: 29, 09LT01
@@ -146,7 +146,7 @@
 
 - title: "Influence of metastable atoms in low pressure magnetized radio-frequency argon discharges"
   authors: Bocong Zheng, Yangyang Fu, De-Qi Wen, Keliang Wang, Thomas Schuelke, Qi Hua Fan†
-  url: zheng20_influen_metas_atoms_low_press
+  # url: zheng20_influen_metas_atoms_low_press
   journal: Journal of Physics D Applied Physics
   year: 2020
   info: 53, 435201
@@ -164,7 +164,7 @@
 
 - title: "Nano-second temporal particle behavior in high-power impulse magnetron sputtering discharge in a cylindrical cathode"
   authors: Suihan Cui, Zhongzhen Wu, Shu Xiao, Bocong Zheng, Lei Chen, Tijun Li, Ricky K. Y. Fu, Paul K. Chu, Xiubo Tian, Wenchang Tan, Daining Fang, and Feng Pan
-  url: cui20_nano_secon_tempor_partic_behav
+  # url: cui20_nano_secon_tempor_partic_behav
   journal: Journal of Applied Physics
   year: 2020
   info: 127, 023301
@@ -178,7 +178,7 @@
 
 - title: "Microstructure and thermal conductivity of Ti-Al-Si-N nanocomposite coatings deposited by modulated pulsed power magnetron sputtering"
   authors: Hui Chen, Bocong Zheng, Yixiang Ou, Mingkai Lei
-  url: chen19_micros_therm_conduc_ti_al
+  # url: chen19_micros_therm_conduc_ti_al
   journal: Thin Solid Films
   year: 2019
   info: 693, 137680
@@ -197,7 +197,7 @@
 
 - title: "Magnetic field enhanced cold plasma sterilization"
   authors: Madeline A. Mackinder, Keliang Wang, Bocong Zheng, Maheshwar Shrestha, Qi Hua Fan†
-  url: mackinder19_magnet_field_enhan_cold_plasm_steril
+  # url: mackinder19_magnet_field_enhan_cold_plasm_steril
   journal: Clinical Plasma Medicine
   year: 2020
   info: 17-18, 100092
@@ -213,7 +213,7 @@
 
 - title: "Reduction of capacitive coupling in inductively coupled plasmas by solenoid coils on dielectric window"
   authors: Bocong Zheng, Maheshwar Shrestha, Keliang Wang, Thomas Schuelke, Evgeny Shun’ko, Veniamin Belkin, Qi Hua Fan†
-  url: zheng19_reduc_capac_coupl_induc_coupl
+  # url: zheng19_reduc_capac_coupl_induc_coupl
   journal: Journal of Applied Physics
   year: 2019
   info: 126, 123302
@@ -228,7 +228,7 @@
 
 - title: "Enhancement of ohmic heating by hall current in magnetized capacitively coupled discharges"
   authors: Bocong Zheng, Keliang Wang, Timothy Grotjohn, Thomas Schuelke, Qi Hua Fan†
-  url: zheng19_enhan_ohmic_heatin_by_hall
+  # url: zheng19_enhan_ohmic_heatin_by_hall
   journal: Plasma Sources Science and Technology
   year: 2019
   info: 28, 09LT03
@@ -241,7 +241,7 @@
 
 - title: "Understanding the chemical reactions in cathodic plasma electrolysis"
   authors: Bocong Zheng, Keliang Wang, Maheshwar Shrestha, Thomas Schuelke, Qi Hua Fan†
-  url: zheng19_under_chemic_react_cathod_plasm_elect
+  # url: zheng19_under_chemic_react_cathod_plasm_elect
   journal: Plasma Sources Science and Technology
   year: 2019
   info: 28, 085016
@@ -257,7 +257,7 @@
 
 - title: "Graphene wrapped mxene via plasma exfoliation for all-solid-state flexible supercapacitors"
   authors: Keliang Wang†, Bocong Zheng, Madeline A. Mackinder, Nina Baule, Hui Qiao, Hong Jin, Thomas Schuelke, and Qi Hua Fan
-  url: wang19_graph_wrapp_mxene_via_plasm
+  # url: wang19_graph_wrapp_mxene_via_plasm
   journal: Energy Storage Materials
   year: 2019
   info: 20, 299-306
@@ -274,7 +274,7 @@
 
 - title: "Hollow cathode effect modified time-dependent global model and high-power impulse magnetron sputtering discharge and transport in cylindrical cathode"
   authors: Suihan Cui, Zhongzhen Wu†, Hai Lin, Shu Xiao, Bocong Zheng, Liangliang Liu, Xiaokai An, Ricky K. Y. Fu, Xiubo Tian, Wenchang Tan, Paul K. Chu
-  url: cui19_hollow_cathod_effec_modif_time
+  # url: cui19_hollow_cathod_effec_modif_time
   journal: Journal of Applied Physics
   year: 2019
   info: 125, 063302
@@ -291,7 +291,7 @@
 
 - title: "Flexible hard Ti-Al-Si-N nanocomposite coatings deposited by modulated pulsed power magnetron sputtering with controllable peak power"
   authors: Hui Chen, Bocong Zheng, Yuge Li, Zhili Wu and Mingkai Lei
-  url: chen19_flexib_hard_tials_nanoc_coatin
+  # url: chen19_flexib_hard_tials_nanoc_coatin
   journal: Thin Solid Films
   year: 2019
   info: 669, 377-386
@@ -311,7 +311,7 @@
 
 - title: "Discharge and deposition characteristics of high-power impulse magnetron sputtering using various target materials"
   authors: Bocong Zheng, Zhili Wu†, Suihan Cui, Shu Xiao, Liangliang Liu, Hai Lin, Ricky K. Y. Fu, Xiubo Tian, Feng Pan†, P. K. Chu
-  url: zheng19_disch_depos_charac_high_power
+  # url: zheng19_disch_depos_charac_high_power
   journal: IEEE Transactions on Plasma Science
   year: 2019
   info: 47(1), 193
@@ -325,7 +325,7 @@
 
 - title: "Magnetically enhanced plasma exfoliation of polyaniline-modified graphene for flexible solid-state supercapacitors"
   authors: Keliang Wang†, Bocong Zheng, Maheshwar Shrestha, Thomas Schuelke, Qi Hua Fan†
-  url: wang18_magnet_enhan_plasm_exfol_polyan
+  # url: wang18_magnet_enhan_plasm_exfol_polyan
   journal: Energy Storage Materials
   year: 2018
   info: 14, 230-237
@@ -339,7 +339,7 @@
 
 - title: "Acoustic standing wave modulation of capacitively coupled plasmas"
   authors: Bocong Zheng, Thomas Schuelke, Qi Hua Fan†
-  url: zheng18_acous_stand_wave_modul_capac_coupl_plasm
+  # url: zheng18_acous_stand_wave_modul_capac_coupl_plasm
   journal: Journal of Physics D Applied Physics
   year: 2018
   info: 51, 285201
@@ -357,7 +357,7 @@
 
 - title: "Comparative study of furnace and flash lamp annealed silicon thin films grown by plasma enhanced chemical vapor deposition"
   authors: Maheshwar Shrestha, Keliang Wang, Bocong Zheng, Laura Mokrzycki, and Qi Hua Fan†
-  url: shrestha18_compar_study_furnac_flash_lamp
+  # url: shrestha18_compar_study_furnac_flash_lamp
   journal: Coatings
   year: 2018
   info: 8(3), 97
@@ -375,7 +375,7 @@
 
 - title: "Electrophoretic deposition of activated carbon yp-50 with ethyl cellulose binders for supercapacitor electrodes"
   authors: Maheshwar Shrestha, Ishop Amatya, Keliang Wang, Bocong Zheng, Zhengrong Gu, Qi Hua Fan†
-  url: shrestha17_elect_depos_activ_carbon_yp
+  # url: shrestha17_elect_depos_activ_carbon_yp
   journal: Journal of Energy Storage
   year: 2017
   info: 13, 206-210
@@ -391,7 +391,7 @@
 
 - title: "Liquid sensors based on enhanced fabry-perot etalons"
   authors: Nezam Uddin, Maheshwar Shrestha, Bocong Zheng, Hyeun-Joong Yoon, Xiuqing Wang, Qi Hua Fan†
-  url: uddin17_liquid_sensor_based_enhan_fabry_perot_etalon
+  # url: uddin17_liquid_sensor_based_enhan_fabry_perot_etalon
   journal: IEEE Sensors Journal
   year: 2017
   info: 17(22), 7348
@@ -408,7 +408,7 @@
 
 - title: "A global plasma model for reactive deposition of compound films by modulated pulsed power magnetron sputtering discharges"
   authors: Bocong Zheng, Zhili Wu, Bi Wu, Yuge Li, Mingkai Lei
-  url: zheng17_global_plasm_model_react_depos
+  # url: zheng17_global_plasm_model_react_depos
   journal: Journal of Applied Physics
   year: 2017
   info: 121, 171901
@@ -423,7 +423,7 @@
 
 - title: "Electromagnetic control and optimization of high-power impulse magnetron sputtering discharges in cylindrical source"
   authors: Suihan Cui, Zhongzhen Wu†, Shu Xiao, Liangliang Liu, Bocong Zheng, Hai Lin, Ricky K. Y. Fu, Xiubo Tian, Paul K. Chu, Wenchang Tan, Feng Pan†
-  url: CuiSuiHan2017
+  # url: CuiSuiHan2017
   journal: Acta Physica Sinica
   year: 2017
   info: 66(9), 095203
@@ -448,7 +448,7 @@
 
 - title: "Cylindric high power impulse magnetron sputtering source and its discharge characteristics"
   authors: Shu Xiao, Zhongzhen Wu†, Suihan Cui, Liangliang Liu, Bocong Zheng, Hai Lin, Ricky K. Y. Fu, Xiubo Tian, Feng Pan†, Paul K. Chu
-  url: XiaoShu2016
+  # url: XiaoShu2016
   journal: Acta Physica Sinica
   year: 2016
   info: 65, 185202
@@ -472,7 +472,7 @@
 
 - title: "On the pressure effect in energetic deposition of cu thin films by modulated pulsed power magnetron sputtering: A global plasma model and experiments"
   authors: Bocong Zheng, Di Meng, Honglong Che, Mingkai Lei†
-  url: zheng15_press_effec_energ_depos_cu
+  # url: zheng15_press_effec_energ_depos_cu
   journal: Journal of Applied Physics
   year: 2015
   info: 117, 203302
@@ -488,7 +488,7 @@
 
 - title: "Nitrogen mass transfer models for plasma-based low-energy ion implantation"
   authors: Bocong Zheng, Kesheng Wang, Zhipeng Zhang, Honglong Che, Mingkai Lei†
-  url: zheng15_nitrog_mass_trans_model_plasm
+  # url: zheng15_nitrog_mass_trans_model_plasm
   journal: Journal of Vacuum Science and Technology A
   year: 2015
   info: 33(2), 021311
@@ -504,7 +504,7 @@
 
 - title: "Nonuniform plasma diffusion and multi-pulse effect in plasma-based ion implantation"
   authors: Bocong Zheng, Mingkai Lei†
-  url: zheng15_nonun_plasm_diffus_multi_pulse
+  # url: zheng15_nonun_plasm_diffus_multi_pulse
   journal: Nuclear Instruments and Methods in Physics Research Section B Beam Interactions with Materials and Atoms
   year: 2015
   info: 343, 83-88
@@ -521,7 +521,7 @@
 
 - title: "Modeling of inner surface modification of a cylindrical tube by plasma-based low-energy ion implantation"
   authors: Bocong Zheng, Kesheng Wang, Mingkai Lei†
-  url: zheng15_model_inner_surfac_modif_cylin
+  # url: zheng15_model_inner_surfac_modif_cylin
   journal: Plasma Science and Technology
   year: 2015
   info: 17, 309-316
@@ -539,7 +539,7 @@
 
 - title: "Plasma low-pressure nonsteady diffusion fluid model for pulsed plasma recovery"
   authors: Yi Li, Bocong Zheng, Mingkai Lei†
-  url: li13_plasm_low_press_nonst_diffus
+  # url: li13_plasm_low_press_nonst_diffus
   journal: IEEE Transactions on Plasma Science
   year: 2013
   info: 41(1), 43-48
@@ -557,7 +557,7 @@
 
 - title: "Engineering the tube size for an inner surface modification by plasma-based ion implantation"
   authors: Yi Li, Bocong Zheng, Mingkai Lei†
-  url: li12_engin_tube_size_inner_surfac
+  # url: li12_engin_tube_size_inner_surfac
   journal: Vaccum
   year: 2012
   info: 86, 1278-1283
